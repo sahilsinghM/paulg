@@ -1,10 +1,6 @@
 Title: On Starting Things (sample)
 URL: synthetic://pg-essays/sample-on-starting
 
-NOTE: This is a SYNTHETIC sample essay used only to demo the walking skeleton.
-It is not a real Paul Graham essay. Run `python tools/crawl.py` to fetch the
-real corpus.
-
 The hardest part of starting something is not the idea but the deciding. Most
 people wait for permission that never comes. They imagine that one day they will
 feel ready, and that readiness will arrive like weather. It won't. You start, and
@@ -18,3 +14,8 @@ direction worth reaching.
 Do not ask whether the thing is impressive. Ask whether it is alive — whether it
 does something, for someone, today. Impressive is a judgment other people make
 later. Alive is a property you can check yourself, right now, by using the thing.
+
+---
+NOTE: This is a SYNTHETIC sample essay used only to demo the walking skeleton.
+It is not a real Paul Graham essay. Run `python tools/crawl.py` to fetch the
+real corpus.

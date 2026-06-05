@@ -108,12 +108,29 @@ def crawl(
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(message)s")
+    import anthropic
+
     from .config import load_config
+    from .essay_index import build_index, format_index, llm_summarize
 
     cfg = load_config()
     written = crawl(cfg.essays_dir)
-    print(f"Crawled {len(written)} essays into {cfg.essays_dir}")
-    # Slice #5 builds the rich INDEX.md here.
+
+    # Build the rich INDEX.md: a one-time Haiku-tier summary per essay, with the
+    # heuristic fallback handled inside build_index.
+    client = anthropic.Anthropic(api_key=cfg.api_key)
+
+    def summarize(essay):
+        return llm_summarize(essay, client, cfg.index_model)
+
+    items = [(path.name, essay) for essay, path in written]
+    entries = build_index(items, summarize=summarize)
+    cfg.index_path.write_text(format_index(entries), encoding="utf-8")
+
+    print(
+        f"Crawled {len(written)} essays into {cfg.essays_dir}; "
+        f"wrote {len(entries)} index entries to {cfg.index_path}"
+    )
 
 
 if __name__ == "__main__":
