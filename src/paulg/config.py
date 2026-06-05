@@ -67,3 +67,12 @@ def load_config(base_dir: Path | None = None, use_dotenv: bool = True) -> Config
         essays_dir=essays_dir,
         index_path=skill_dir / "INDEX.md",
     )
+
+
+def ensure_corpus(config: Config) -> None:
+    """Raise ``ConfigError`` with a fix-it message if the essay corpus is absent."""
+    if not config.essays_dir.exists() or not any(config.essays_dir.glob("*.txt")):
+        raise ConfigError(
+            f"No essays found at {config.essays_dir}. Build the corpus first by "
+            f"running `python tools/crawl.py` (needs ANTHROPIC_API_KEY and network)."
+        )

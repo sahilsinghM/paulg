@@ -6,7 +6,7 @@ import asyncio
 import sys
 
 from .agent import PGSession
-from .config import Config, ConfigError, load_config
+from .config import Config, ConfigError, ensure_corpus, load_config
 from .permissions import confine_to
 
 BANNER = "Paul Graham — ask me anything about startups, ideas, and writing.\n(Ctrl-D or 'exit' to quit.)\n"
@@ -35,6 +35,7 @@ async def _chat(config: Config) -> None:
 def main() -> int:
     try:
         config = load_config()
+        ensure_corpus(config)
     except ConfigError as exc:
         print(f"Configuration error: {exc}", file=sys.stderr)
         return 1

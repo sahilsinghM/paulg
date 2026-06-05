@@ -1,6 +1,6 @@
 import pytest
 
-from paulg.config import Config, ConfigError, load_config
+from paulg.config import Config, ConfigError, ensure_corpus, load_config
 
 
 def test_missing_api_key_raises_actionable_error(monkeypatch, tmp_path):
@@ -30,3 +30,19 @@ def test_model_override_via_env(monkeypatch, tmp_path):
     monkeypatch.setenv("PAULG_MODEL", "claude-opus-4-8")
     cfg = load_config(base_dir=tmp_path, use_dotenv=False)
     assert cfg.model == "claude-opus-4-8"
+
+
+def test_ensure_corpus_raises_when_missing(monkeypatch, tmp_path):
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-test")
+    cfg = load_config(base_dir=tmp_path, use_dotenv=False)
+    with pytest.raises(ConfigError) as exc:
+        ensure_corpus(cfg)
+    assert "crawl" in str(exc.value)
+
+
+def test_ensure_corpus_passes_when_essays_present(monkeypatch, tmp_path):
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-test")
+    cfg = load_config(base_dir=tmp_path, use_dotenv=False)
+    cfg.essays_dir.mkdir(parents=True)
+    (cfg.essays_dir / "a.txt").write_text("Title: A\nURL: x\n\nbody")
+    ensure_corpus(cfg)  # must not raise
