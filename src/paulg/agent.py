@@ -18,6 +18,7 @@ from claude_agent_sdk import (
 )
 
 from .config import Config
+from .permissions import confine_to
 
 # Short persona spine appended to the Claude Code preset so tool-use behavior is
 # preserved. The authoritative persona + grounding rules live in the skill's
@@ -31,19 +32,23 @@ PERSONA_SPINE = (
     "topic, say so plainly in character rather than inventing a view."
 )
 
-# Read-only tools the agent may use to retrieve essays. Excludes shell/edit/network.
-READ_TOOLS = ["Read", "Grep", "Glob"]
+# Shell/edit/network tools are hard-disabled in addition to the path guard.
+DISALLOWED_TOOLS = ["Bash", "Write", "Edit", "WebFetch", "WebSearch"]
 
 
-def build_options(config: Config, can_use_tool=None) -> ClaudeAgentOptions:
+def build_options(config: Config, can_use_tool) -> ClaudeAgentOptions:
     """Build the SDK options for a PG chat session.
 
-    When ``can_use_tool`` is provided (slice #4 confinement), tool calls are
-    gated by that callback rather than blanket-approved, and shell/edit/network
-    tools are hard-disabled. Without it (walking skeleton), the read-only tools
-    are pre-approved and permissions are bypassed for a headless run.
+    ``can_use_tool`` is **required**: every tool call is gated by that callback
+    (use ``confine_to(skill_dir)``), nothing is blanket-approved, and
+    shell/edit/network tools are hard-disabled. There is intentionally no
+    permission-bypass path — a session is always confined.
     """
-    common = dict(
+    if can_use_tool is None:
+        raise ValueError(
+            "build_options requires a can_use_tool guard — pass confine_to(skill_dir)."
+        )
+    return ClaudeAgentOptions(
         model=config.model,
         cwd=str(config.project_root),
         skills=[config.skill_name],
@@ -52,18 +57,9 @@ def build_options(config: Config, can_use_tool=None) -> ClaudeAgentOptions:
             "preset": "claude_code",
             "append": PERSONA_SPINE,
         },
-    )
-    if can_use_tool is not None:
-        return ClaudeAgentOptions(
-            **common,
-            allowed_tools=[],  # let the callback decide every tool call
-            disallowed_tools=["Bash", "Write", "Edit", "WebFetch", "WebSearch"],
-            can_use_tool=can_use_tool,
-        )
-    return ClaudeAgentOptions(
-        **common,
-        allowed_tools=READ_TOOLS,
-        permission_mode="bypassPermissions",
+        allowed_tools=[],  # let the callback decide every tool call
+        disallowed_tools=DISALLOWED_TOOLS,
+        can_use_tool=can_use_tool,
     )
 
 
@@ -71,6 +67,10 @@ class PGSession:
     """A persistent, multi-turn Paul Graham chat session."""
 
     def __init__(self, config: Config, can_use_tool=None) -> None:
+        # Default to confining to the skill directory so a session is never
+        # accidentally unconfined when no guard is passed explicitly.
+        if can_use_tool is None:
+            can_use_tool = confine_to(config.skill_dir)
         self._client = ClaudeSDKClient(build_options(config, can_use_tool))
 
     async def __aenter__(self) -> "PGSession":
