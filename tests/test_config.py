@@ -37,7 +37,6 @@ def test_memory_disabled_by_default(monkeypatch, tmp_path):
     monkeypatch.delenv("PAULG_MEMORY", raising=False)
     cfg = load_config(base_dir=tmp_path, use_dotenv=False)
     assert cfg.memory_enabled is False
-    assert cfg.memory_dir == tmp_path / "memory"
 
 
 def test_memory_enabled_via_env(monkeypatch, tmp_path):

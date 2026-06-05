@@ -18,7 +18,6 @@ def _cfg(tmp_path: Path, memory: bool = False) -> Config:
         essays_dir=skill / "essays",
         index_path=skill / "INDEX.md",
         memory_enabled=memory,
-        memory_dir=tmp_path / "memory",
     )
 
 
@@ -53,17 +52,13 @@ def test_writes_hard_disabled_without_memory(tmp_path):
 
 
 def test_writes_enabled_with_memory_but_shell_still_disabled(tmp_path):
+    # Memory mode enables Write/Edit so Claude Code's native memory can persist;
+    # shell/network stay blocked, and the guard still denies every direct write.
     opts = build_options(_cfg(tmp_path, memory=True), _noop_guard)
-    assert "Write" not in opts.disallowed_tools  # guard confines writes to memory/
+    assert "Write" not in opts.disallowed_tools
     assert "Edit" not in opts.disallowed_tools
-    assert "Bash" in opts.disallowed_tools  # shell/network always blocked
+    assert "Bash" in opts.disallowed_tools
     assert "WebFetch" in opts.disallowed_tools
-
-
-def test_pgsession_with_memory_creates_starter_file(tmp_path):
-    cfg = _cfg(tmp_path, memory=True)
-    PGSession(cfg)  # constructing should provision the memory dir + starter file
-    assert (cfg.memory_dir / "about_user.md").exists()
 
 
 async def _noop_guard(name, inp, ctx):  # noqa: ANN001

@@ -31,7 +31,6 @@ class Config:
     essays_dir: Path
     index_path: Path
     memory_enabled: bool
-    memory_dir: Path
 
 
 def load_config(base_dir: Path | None = None, use_dotenv: bool = True) -> Config:
@@ -71,7 +70,6 @@ def load_config(base_dir: Path | None = None, use_dotenv: bool = True) -> Config
         essays_dir=essays_dir,
         index_path=skill_dir / "INDEX.md",
         memory_enabled=memory_enabled,
-        memory_dir=Path(os.environ.get("PAULG_MEMORY_DIR", base / "memory")),
     )
 
 

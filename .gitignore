@@ -14,6 +14,3 @@ dist/
 
 # Crawl caches (raw HTML + summary cache) — local, regenerable.
 data/
-
-# Cross-session agent memory — personal, never committed.
-memory/

@@ -51,14 +51,20 @@ paulg          # or: python -m paulg.cli
 | `PAULG_MODEL` | `claude-sonnet-4-6` | chat model (set `claude-opus-4-8` for harder questions) |
 | `PAULG_INDEX_MODEL` | `claude-haiku-4-5` | one-time essay-summary model used by the crawler |
 | `PAULG_SKILL_DIR` | `.claude/skills/pg-essays` | skill location — **also the agent's confinement boundary**; point it only at the skill dir |
-| `PAULG_MEMORY` | _(off)_ | set to `1` to let PG remember you across sessions (writable `memory/` dir; corpus stays read-only) |
+| `PAULG_MEMORY` | _(off)_ | set to `1` to enable cross-session memory via Claude Code's native store (see below) |
 
 ### Memory (opt-in)
 
-With `PAULG_MEMORY=1`, the agent reads/writes `memory/about_user.md` to recall you
-across sessions. Writes are confined to `memory/` by the permission guard — the
-essay corpus stays read-only and shell/network remain blocked. `memory/` is
-gitignored (personal). Leave it unset for the default fully-read-only agent.
+By default the agent is **fully read-only** — the permission guard denies every
+direct write, so the agent cannot modify the corpus or your filesystem.
+
+`PAULG_MEMORY=1` enables the `Write`/`Edit` tools, which lets **Claude Code's
+native cross-session memory** persist what it learns about you. That memory is
+managed by Claude Code and stored under `~/.claude/projects/<project>/memory/` —
+it is **not** governed by this app's permission guard (the guard still denies
+every *direct* write the agent attempts, and the essay corpus stays read-only).
+If you want memory under your app's own control instead, that's a future
+enhancement; the platform owns the native-memory boundary today.
 
 ### Faster re-crawls
 
