@@ -95,6 +95,42 @@ def build_index(items, summarize=None) -> list[IndexEntry]:
     return entries
 
 
+def build_index_cached(items, cache, summarize_many=None) -> list[IndexEntry]:
+    """Build index entries, reusing a ``SummaryCache`` and summarizing only the
+    misses via ``summarize_many`` (filename, essay) pairs -> {filename: (summary,
+    keywords)}. Anything still unsummarized falls back to the heuristic. New
+    summaries are written to the cache.
+    """
+    cached: dict[str, tuple[str, list[str]]] = {}
+    misses: list = []
+    for filename, essay in items:
+        hit = cache.get(essay.text)
+        if hit is not None:
+            cached[filename] = hit
+        else:
+            misses.append((filename, essay))
+
+    fresh: dict[str, tuple[str, list[str]]] = {}
+    if misses and summarize_many is not None:
+        try:
+            fresh = summarize_many(misses) or {}
+        except Exception:  # noqa: BLE001 — fall back to heuristic, never abort
+            fresh = {}
+
+    entries: list[IndexEntry] = []
+    for filename, essay in items:
+        if filename in cached:
+            summary, keywords = cached[filename]
+        elif filename in fresh and fresh[filename][0]:
+            summary, keywords = fresh[filename]
+            cache.put(essay.text, summary, keywords)
+        else:
+            summary, keywords = heuristic_summary(essay)
+            cache.put(essay.text, summary, keywords)
+        entries.append(IndexEntry(filename, essay.title, summary, keywords or []))
+    return entries
+
+
 def heuristic_summary(essay: Essay) -> tuple[str, list[str]]:
     """Offline fallback: first sentence + frequency-ranked content keywords."""
     paragraphs = [p.strip() for p in essay.text.split("\n\n") if p.strip()]
@@ -111,28 +147,40 @@ def heuristic_summary(essay: Essay) -> tuple[str, list[str]]:
     return summary, keywords
 
 
-def llm_summarize(essay: Essay, client, model: str) -> tuple[str, list[str]]:
-    """One-time Haiku-tier summary. Raises on any failure so the caller can fall
-    back to ``heuristic_summary``."""
-    prompt = (
+def build_summary_prompt(essay: Essay) -> str:
+    """The prompt for the one-time index summary (shared by the live and batch
+    paths)."""
+    return (
         "Summarize this Paul Graham essay for a retrieval index. Reply EXACTLY as:\n"
         "Summary: <one sentence describing the essay's thesis>\n"
         "Keywords: <5-8 lowercase topic words, comma-separated>\n\n"
         f"Title: {essay.title}\n\n{essay.text[:6000]}"
     )
-    resp = client.messages.create(
-        model=model,
-        max_tokens=200,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = "".join(b.text for b in resp.content if getattr(b, "type", None) == "text")
+
+
+def parse_summary_response(text: str) -> tuple[str, list[str]]:
+    """Parse a model summary response. Returns ('', []) if unparseable."""
     summary = ""
     keywords: list[str] = []
     for line in text.splitlines():
-        if line.lower().startswith("summary:"):
+        low = line.lower()
+        if low.startswith("summary:"):
             summary = line.split(":", 1)[1].strip()
-        elif line.lower().startswith("keywords:"):
+        elif low.startswith("keywords:"):
             keywords = [k.strip().lower() for k in line.split(":", 1)[1].split(",") if k.strip()]
+    return summary, keywords
+
+
+def llm_summarize(essay: Essay, client, model: str) -> tuple[str, list[str]]:
+    """One-time Haiku-tier summary. Raises on any failure so the caller can fall
+    back to ``heuristic_summary``."""
+    resp = client.messages.create(
+        model=model,
+        max_tokens=200,
+        messages=[{"role": "user", "content": build_summary_prompt(essay)}],
+    )
+    text = "".join(b.text for b in resp.content if getattr(b, "type", None) == "text")
+    summary, keywords = parse_summary_response(text)
     if not summary:
         raise ValueError("model did not return a summary")
     return summary, keywords

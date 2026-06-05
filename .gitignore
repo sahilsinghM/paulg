@@ -11,3 +11,6 @@ dist/
 # Run `python tools/crawl.py` to regenerate these locally.
 .claude/skills/pg-essays/essays/
 .claude/skills/pg-essays/INDEX.md
+
+# Crawl caches (raw HTML + summary cache) — local, regenerable.
+data/

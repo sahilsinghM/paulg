@@ -4,1150 +4,1040 @@ Consult this index to pick the 1-2 most relevant essays for a question, then rea
 
 ## greatwork.txt
 **Title:** How to Do Great Work
-**Summary:** Great work follows a consistent four-step process—choose a field matching your aptitude and curiosity, learn to the frontier of knowledge, notice gaps others overlook, and boldly explore promising ones—driven by deep interest and the willingness to work hard.
-**Keywords:** ambition, curiosity, choosing work, learning, frontier, discovery, gaps, great work
+**Summary:** Great work follows a consistent pattern across fields: choose work matching your aptitude and deep interest, learn to the frontier of knowledge, notice gaps others ignore, and boldly explore the most promising ones, driven by curiosity rather than mere discipline.
+**Keywords:** ambition, curiosity, great work, skill development, knowledge frontiers, problem-solving, passion, career choice
 
 ## kids.txt
 **Title:** Having Kids
-**Summary:** Having children transforms from something feared into an unexpectedly profound source of joy and meaning, though it requires accepting reduced productivity and altered life priorities.
-**Keywords:** parenthood, personal growth, expectations vs reality, life satisfaction, sacrifice, priorities, bias, meaning
+**Summary:** Having children transforms one's perspective from fear and skepticism into genuine fulfillment, though this shift involves both biological changes and corrections to previous misconceptions based on biased observations.
+**Keywords:** parenthood, children, bias, fulfillment, personal growth, life meaning, productivity, ambition
 
 ## selfindulgence.txt
 **Title:** How to Lose Time and Money
-**Summary:** Fortunes and time are lost not through obvious self-indulgent spending, but through deceptive activities like bad investments and fake work that bypass our natural alarms by appearing virtuous.
-**Keywords:** wealth preservation, bad investments, time management, fake work, self-indulgence, decision-making, risk awareness
+**Summary:** Most fortunes and productive time are lost not through obvious self-indulgence but through seemingly legitimate activities like bad investments and fake work that bypass our natural warning systems.
+**Keywords:** wealth management, bad investments, time management, fake work, self-indulgence, decision-making, risk awareness
 
 ## winc.txt
 **Title:** How to Convert Between Wealth and Income Tax
-**Summary:** A wealth tax of 1% is mathematically equivalent to a 20% income tax increase, a conversion rate most politicians fail to understand when discussing wealth taxation policy.
-**Keywords:** wealth tax, income tax, tax conversion, capital returns, tax policy, tax rates, government taxation
+**Summary:** A wealth tax of 1% is mathematically equivalent to a 20% income tax increase, a conversion most politicians fail to understand when advocating for wealth taxation.
+**Keywords:** wealth tax, income tax, tax policy, capital returns, tax equivalence, government taxation, economic policy
 
 ## brandage.txt
 **Title:** The Brand Age
-**Summary:** As technology commoditizes products, companies must transform from engineering-focused businesses into luxury brands, as exemplified by the Swiss watch industry's shift from precision instruments to status symbols after the quartz crisis of the 1970s.
-**Keywords:** brand, luxury, technology, commodification, swiss watches, status symbol, product differentiation, golden age
+**Summary:** Swiss watchmakers survived the quartz crisis by transforming from engineering-focused precision instrument makers into luxury brands, illustrating how brand becomes the primary value proposition when technology commoditizes products.
+**Keywords:** brand, luxury, swiss watches, quartz crisis, commoditization, technology, status symbols, golden age
 
 ## field.txt
 **Title:** The Shape of the Essay Field
-**Summary:** Essays that tell smart people important things they don't know naturally find their largest audience among younger readers because they have more capacity to be surprised by novel ideas.
-**Keywords:** essay, novelty, surprise, young readers, important topics, impact, tradeoff
+**Summary:** Essays that teach smart people important things naturally find their largest audience among younger readers because they have more room for their thinking to be changed.
+**Keywords:** essay, novelty, surprise, audience, importance, young readers, intellectual impact, writing
 
 ## goodwriting.txt
 **Title:** Good Writing
-**Summary:** Good writing that sounds pleasing is more likely to be intellectually right because the process of improving prose rhythms simultaneously refines and clarifies the underlying ideas.
-**Keywords:** writing, rhythm, ideas, prose style, editing, clarity, craft, sound
+**Summary:** Good writing that sounds appealing is more likely to be intellectually rigorous because the process of improving prose rhythm and readability simultaneously forces clearer thinking and reveals logical gaps.
+**Keywords:** writing, style, ideas, rhythm, clarity, editing, prose, sound
 
 ## do.txt
 **Title:** What to Do
-**Summary:** One should help people, take care of the world, and most importantly make good new things, which represents the best proof of human thinking and living to one's full potential.
-**Keywords:** purpose, creation, making things, newness, human potential, thinking, duty, excellence
+**Summary:** To live fully, one should help people, care for the world, and most importantly make good new things, which represents the highest form of human thinking and creativity.
+**Keywords:** purpose, making things, creativity, human potential, thinking, first principles, originality, how to live
 
 ## woke.txt
 **Title:** The Origins of Wokeness
-**Summary:** Wokeness is a modern manifestation of an ancient human tendency toward self-righteous moral policing, originating in 1980s academia when 1960s radicals gained institutional power and began enforcing progressive ideology through performative social justice rather than substantive change.
-**Keywords:** wokeness, political correctness, performativity, academia, moral purity, social justice, priggism, 1980s
+**Summary:** Wokeness is a modern manifestation of an ancient human tendency toward self-righteous moral policing, originating in 1980s universities when 1960s radical activists gained academic power and began enforcing their political beliefs through performative social justice rather than substantive change.
+**Keywords:** wokeness, political correctness, moral purity, universities, performative activism, 1960s radicals, social justice, priggishness
 
 ## writes.txt
 **Title:** Writes and Write-Nots
-**Summary:** As AI enables people to avoid writing, society will split into those who write and think clearly versus those who don't, making deliberate writing practice essential for maintaining intellectual capability.
-**Keywords:** artificial intelligence, writing, thinking, skill obsolescence, cognitive ability, education, technology adoption
+**Summary:** AI will create a bifurcated world of skilled writers and non-writers, causing widespread cognitive decline because writing is essential to clear thinking.
+**Keywords:** writing, ai, thinking, technology, skill, cognition, education, future
 
 ## when.txt
 **Title:** When To Do What You Love
-**Summary:** The decision to pursue passion in work depends on your financial goals and circumstances—it's inadvisable for moderate wealth-seeking but becomes strategically valuable when aiming for exceptional success or maintaining optionality amid uncertainty.
-**Keywords:** passion, career choice, startup ideas, money, uncertainty, exploration, optionality, ambition
+**Summary:** The decision to follow your passion depends on your financial goals and circumstances—you should pursue what interests you most when making little money or massive wealth, but may need to prioritize income for moderate financial success.
+**Keywords:** passion, career choice, money, startups, uncertainty, ambition, self-knowledge
 
 ## foundermode.txt
 **Title:** Founder Mode
-**Summary:** Founder mode and manager mode are fundamentally different approaches to running companies, with founders achieving better results by maintaining direct engagement and control rather than delegating through hierarchical structures as conventional management wisdom prescribes.
-**Keywords:** founder mode, management philosophy, startup scaling, leadership, delegation, organizational structure, steve jobs, airbnb
+**Summary:** Founders should run scaling companies in "founder mode" rather than adopting conventional "manager mode," which prioritizes direct delegation but often fails because it relies on untested managers rather than leveraging the founder's unique judgment and involvement.
+**Keywords:** founder mode, scaling startups, management philosophy, delegation, steve jobs, organizational leadership, startup growth, management advice
 
 ## persistence.txt
 **Title:** The Right Kind of Stubborn
-**Summary:** Successful persistence differs from mere obstinacy in that persistent people remain committed to their goals while staying flexible about methods and listening to feedback, whereas obstinate people rigidly cling to their initial ideas regardless of evidence.
-**Keywords:** persistence, obstinacy, determination, flexibility, goal-oriented, listening, adaptability, problem-solving
+**Summary:** Successful persistence differs from mere obstinacy in that persistent people remain attached to their goals while staying open to changing their methods, whereas obstinate people rigidly cling to their initial ideas and resist feedback.
+**Keywords:** persistence, obstinacy, determination, problem-solving, adaptability, feedback, goals, entrepreneurship
 
 ## reddits.txt
 **Title:** The Reddits
-**Summary:** Paul Graham recounts how he met Steve and Alexis Reddit before founding Y Combinator, rejected their initial startup idea, convinced them to pivot to building Reddit instead, and explains how the founders' personalities and the site's user-driven design made it fundamentally successful.
-**Keywords:** y combinator, startup founding, reddit, pivot, user-generated content, founders, link sharing, startup strategy
+**Summary:** Steve and Alexis Redding were rejected by Y Combinator for their initial startup idea, but Paul Graham was so impressed with them that he convinced them to pivot to building Reddit, a user-driven link-sharing platform inspired by Delicious that became fundamentally transformative due to the founders' intellectual curiosity and skepticism of authority.
+**Keywords:** y combinator, reddit, founders, startup pivots, user-driven platforms, steve redding, early internet history
 
 ## google.txt
 **Title:** How to Start Google
-**Summary:** To prepare for starting a high-growth startup like Google, young people should develop technical skills through personal projects, pursue their genuine interests rather than predicted trends, and understand that success requires building things rather than just learning in classrooms.
-**Keywords:** startups, technology skills, personal projects, programming, entrepreneurship, founders, learning by doing, technical education
+**Summary:** To prepare for starting a high-growth startup like Google, teenagers should develop technical skills through personal projects, find co-founders who share their interests, and pursue ideas they're genuinely excited about rather than what seems prestigious or predictable.
+**Keywords:** startups, programming, technical skills, personal projects, entrepreneurship, cofounders, learning, technology
 
 ## best.txt
 **Title:** The Best Essay
-**Summary:** The best essays are written by discovering ideas through a disciplined process of starting with a puzzling question, committing thoughts to words, and rigorously rewriting to uncover deeper truths.
-**Keywords:** essay writing, idea discovery, writing process, intellectual exploration, rewriting, questioning, creative thinking
+**Summary:** The best essays are written by starting with genuine puzzles or gaps in understanding, then thinking rigorously through them by writing and rewriting, following branches that offer novelty and generality until discovering unexpected truths.
+**Keywords:** essay writing, discovery, questioning, idea generation, rewriting, intellectual exploration, truth-seeking
 
 ## superlinear.txt
 **Title:** Superlinear Returns
-**Summary:** Performance returns are superlinear rather than linear across most domains, driven by exponential growth and thresholds, creating winner-take-all outcomes that ambitious people should understand and leverage.
-**Keywords:** superlinear returns, exponential growth, thresholds, winner-take-all, performance, startups, compounding, competitive advantage
+**Summary:** Performance returns are superlinear across many domains due to exponential growth and thresholds, creating winner-take-all dynamics that most people fail to understand despite its fundamental importance to success.
+**Keywords:** superlinear returns, exponential growth, thresholds, winner-take-all, performance, compound effects, competitive advantage, wealth concentration
 
 ## getideas.txt
 **Title:** How to Get New Ideas
-**Summary:** New ideas come from noticing anomalies and gaps at the frontiers of knowledge, which appear obvious once you examine them closely enough.
-**Keywords:** ideas, anomalies, knowledge, gaps, frontiers, innovation, problem-solving, creativity
+**Summary:** New ideas come from noticing anomalies and gaps at the frontiers of knowledge, where the landscape becomes increasingly detailed and full of unexplored opportunities.
+**Keywords:** ideas, anomalies, knowledge, gaps, creativity, innovation, exploration, frontiers
 
 ## read.txt
 **Title:** The Need to Read
-**Summary:** Reading is essential because it teaches writing, and writing is the primary means of developing complex ideas; therefore, good reading and writing skills are irreplaceable for deep thinking.
-**Keywords:** reading, writing, thinking, ideas, learning, cognition, knowledge acquisition, problem-solving
+**Summary:** Reading is essential for developing clear thinking and good writing skills, as the process of writing itself generates new ideas that cannot be discovered through other means of knowledge acquisition.
+**Keywords:** reading, writing, thinking, ideas, learning, knowledge, discovery, cognition
 
 ## want.txt
 **Title:** What You (Want to)* Want
-**Summary:** While you can control your actions and even modify some of your desires, there is ultimately some level of "wanting" beyond your control, which resolves the apparent contradiction between being a deterministic physical system and experiencing free will.
-**Keywords:** free will, desire, determinism, choice, self-control, higher-order wants, responsibility
+**Summary:** While you can control your actions and even change what you want through successive layers of desire, there exists some foundational level of wanting that you ultimately cannot control, reconciling free will with determinism.
+**Keywords:** free will, desire, determinism, consciousness, control, self-improvement, higher-order wants
 
 ## alien.txt
 **Title:** Alien Truth
-**Summary:** Universal truths shared by any intelligent beings in the universe—beyond mathematics and physics—can serve as a heuristic target for discovering the most fundamental principles of philosophy.
-**Keywords:** alien truth, universal principles, philosophy, intelligent life, occam's razor, experimentation, god's book
+**Summary:** Universal truths shared by any intelligent life form—beyond mathematics and physics—can serve as a target for discovering fundamental principles about reality, knowledge, and ethics that transcend human particularity.
+**Keywords:** alien truth, universal principles, philosophy, intelligence, occam's razor, discovery, objectivity
 
 ## users.txt
 **Title:** What I've Learned from Users
-**Summary:** Y Combinator's experience advising hundreds of early-stage startups reveals that while most startups encounter recurring problems, success requires individualized guidance because founders often misdiagnose their core issues and struggle to prioritize what truly matters.
-**Keywords:** startup advice, founder problems, prioritization, counterintuitive, y combinator, user focus, early stage companies, mentorship
+**Summary:** The most valuable startup advice is learning from users, and YC's effectiveness comes from identifying common founder problems, prioritizing them correctly, and helping founders focus on what actually matters—though founders often don't listen until experience proves the counterintuitive nature of startups.
+**Keywords:** startup advice, founder problems, user feedback, prioritization, counterintuitive, y combinator, mentorship, focus
 
 ## heresy.txt
 **Title:** Heresy
-**Summary:** Modern society has revived the concept of heresy as a secular phenomenon, where certain opinions result in professional and social punishment regardless of truth, driven by ideologically-aligned groups of conventionally-minded enforcers.
-**Keywords:** heresy, intolerance, orthodoxy, ideology, free speech, social punishment, truth, conventional-mindedness
+**Summary:** Modern society has recreated the concept of heresy as a secular phenomenon where certain opinions result in professional and social punishment regardless of their truth or falsity, driven by the alignment of conventionally-minded people behind ideological movements.
+**Keywords:** heresy, orthodoxy, censorship, ideology, intolerance, conventional-mindedness, punishment, discourse
 
 ## words.txt
 **Title:** Putting Ideas into Words
-**Summary:** Writing is the most rigorous test for clarifying and completing your ideas, revealing gaps and incompleteness that feel undetectable in your head.
-**Keywords:** writing, ideas, thinking, clarity, articulation, self-discovery, precision, expertise
+**Summary:** Writing is the most rigorous test for clarifying and developing ideas, revealing gaps and incompleteness that would otherwise remain hidden.
+**Keywords:** writing, ideas, clarity, thinking, self-examination, precision, communication, knowledge
 
 ## goodtaste.txt
 **Title:** Is There Such a Thing as Good Taste?
-**Summary:** Good taste exists as a demonstrable quality in art and aesthetics because people share enough common responses to artistic works that artists can be objectively better or worse at their craft, similar to how vaccines can be objectively effective despite varying individual responses.
-**Keywords:** good taste, art, aesthetics, objectivity, subjectivity, artistic skill, human responses, expertise
+**Summary:** Good taste in art exists as a demonstrable phenomenon because art can be objectively better or worse at affecting human audiences, even though people's responses vary based on knowledge and judgment clarity.
+**Keywords:** taste, art, aesthetic judgment, objectivity, subjectivity, expertise, disagreement, quality
 
 ## smart.txt
 **Title:** Beyond Smart
-**Summary:** Intelligence is a necessary but not sufficient condition for discovering new ideas; the ability to generate novel insights depends on other cultivable factors beyond raw cognitive ability.
-**Keywords:** intelligence, creativity, new ideas, independent-mindedness, obsessive interest, writing, innovation
+**Summary:** Intelligence is necessary but not sufficient for discovering new ideas; what truly matters is cultivating other ingredients like obsessive interest, independent-mindedness, writing ability, and good work habits that can be developed regardless of innate intelligence.
+**Keywords:** intelligence, new ideas, creativity, cultivatable skills, independent-mindedness, obsessive interest, achievement
 
 ## weird.txt
 **Title:** Weird Languages
-**Summary:** Learning unconventional programming languages reveals advanced programming techniques beyond routine library integration that can expand one's understanding of what programming can accomplish.
-**Keywords:** programming languages, lisp macros, language design, code generation, metaprogramming, learning, software development, language features
+**Summary:** Learning "weird" programming languages reveals unconventional programming techniques and expands one's conception of what programming can be, since the weirdness in good languages points to capabilities beyond routine library-function composition.
+**Keywords:** programming languages, lisp macros, metaprogramming, language design, code generation, learning, computational thinking
 
 ## hwh.txt
 **Title:** How to Work Hard
-**Summary:** To achieve great work, you need natural ability, practice, and genuine hard work; unlike school teaches, real accomplishment requires learning what meaningful work actually is and developing the internal drive to pursue self-directed goals.
-**Keywords:** hard work, natural ability, practice, self-directed goals, intrinsic motivation, achievement, discipline, meaningful work
+**Summary:** Achieving great work requires natural ability, deliberate practice, and sustained hard effort—and the key challenge is learning to work hard toward self-directed goals rather than externally imposed ones.
+**Keywords:** hard work, natural ability, practice, effort, self-directed goals, discipline, achievement, excellence
 
 ## own.txt
 **Title:** A Project of One's Own
-**Summary:** Working on self-directed projects produces more engagement and great work than obligatory tasks, yet formal education systematically steers people away from this mode by treating schoolwork as fundamentally different from genuine creative pursuits.
-**Keywords:** self-directed projects, intrinsic motivation, education, creativity, work, autonomy, collaboration, personal projects
+**Summary:** Working on self-directed projects is fundamentally more engaging and productive than dutiful, externally-imposed work, and society should better cultivate this capacity in young people rather than steering them toward school-based competition.
+**Keywords:** self-directed projects, intrinsic motivation, education, collaboration, personal work, creativity, ambition
 
 ## fn.txt
 **Title:** Fierce Nerds
-**Summary:** Fierce nerds—characterized by competitiveness, intelligence, overconfidence, and independent-mindedness—appear diffident in social situations but are actually formidable when working on ambitious problems, and should channel their intensity into meaningful projects to avoid bitterness.
-**Keywords:** fierce nerds, competitiveness, intelligence, independent-mindedness, overconfidence, ambitious projects, nerd culture, success
+**Summary:** Fierce nerds—highly intelligent, competitive, independent-minded, and impatient individuals—possess formidable qualities that make them exceptionally successful at solving difficult problems, but must channel their intensity into ambitious work to avoid becoming bitter.
+**Keywords:** fierce nerds, competitiveness, intelligence, independent-mindedness, overconfidence, ambition, technical achievement, bitterness
 
 ## newideas.txt
 **Title:** Crazy New Ideas
-**Summary:** Dismissing implausible-sounding ideas proposed by reasonable domain experts is unwise, as such ideas are disproportionately likely to be important and have high expected value, despite appearing absurd within the constraints of current paradigms.
-**Keywords:** innovation, paradigm shift, domain expertise, dismissal bias, new ideas, risk-taking, intellectual progress
+**Summary:** Implausible-sounding ideas proposed by reasonable domain experts deserve serious consideration rather than dismissal, as they often represent valuable insights that challenge prevailing paradigms and have disproportionately high expected value.
+**Keywords:** paradigm shifts, expert ideas, innovation, dismissal bias, domain expertise, unconventional thinking, new ideas, intellectual humility
 
 ## nft.txt
 **Title:** An NFT That Saves Lives
-**Summary:** Paul Graham describes an NFT created by Noora Health, a nonprofit that teaches mothers in South Asian hospitals how to care for newborns, where higher auction prices directly translate to more lives saved through their proven, cost-effective intervention.
-**Keywords:** nft, nonprofit, healthcare, impact measurement, charity, cost-effectiveness, mothers, newborns
+**Summary:** Paul Graham describes Noora Health's innovative use of an NFT to fund their proven life-saving maternal care programs in South Asia, where higher auction prices directly translate to more lives saved.
+**Keywords:** nft, nonprofit, maternal health, south asia, fundraising, effective altruism, impact measurement, cryptocurrency
 
 ## real.txt
 **Title:** The Real Reason to End the Death Penalty
-**Summary:** The death penalty's fundamental problem is not theoretical ethics or deterrence, but that the criminal justice system regularly convicts innocent people, making capital punishment in practice a system for executing the innocent.
-**Keywords:** death penalty, wrongful conviction, innocence project, criminal justice, exoneration, capital punishment, judicial error
+**Summary:** The death penalty's central problem is not theoretical ethics but the practical reality that innocent people are regularly convicted and executed due to police misconduct, prosecutorial dishonesty, inadequate defense, and unreliable evidence.
+**Keywords:** death penalty, wrongful convictions, innocence, criminal justice, dna exoneration, prosecutorial misconduct, capital punishment
 
 ## richnow.txt
 **Title:** How People Get Rich Now
-**Summary:** The composition of America's wealthiest has shifted from inheritance and natural resource extraction in 1982 to primarily tech company founders in 2020, representing a return to 19th-century patterns of entrepreneurial wealth creation that were disrupted by mid-20th-century corporate consolidation.
-**Keywords:** wealth inequality, entrepreneurship, tech companies, forbes 400, economic history, business founders, venture capital, social mobility
+**Summary:** Wealth creation has shifted from inheritance and natural resource extraction toward entrepreneurship and technology companies, representing a return to early 20th-century patterns rather than a departure from mid-century corporate consolidation.
+**Keywords:** wealth creation, entrepreneurship, tech companies, fortune sources, economic inequality, venture capital, corporate consolidation
 
 ## simply.txt
 **Title:** Write Simply
-**Summary:** Writing simply using ordinary words and clear sentences makes ideas more accessible, engaging, and lasting while remaining honest and considerate to all readers.
-**Keywords:** writing style, simplicity, clarity, readability, prose, ideas, editing, communication
+**Summary:** Writing simply using ordinary words and short sentences makes ideas more accessible and engaging to readers, while also being more honest and considerate than unnecessarily complex prose.
+**Keywords:** writing, simplicity, clarity, prose style, reader engagement, editing, communication
 
 ## donate.txt
 **Title:** Donate Unrestricted
-**Summary:** Donors should give unrestricted donations to nonprofits because the organizations themselves understand their needs better than external donors, and restricted donations are inherently suboptimal unless the donor is a domain expert or the nonprofit is an umbrella organization.
-**Keywords:** nonprofit donations, restricted donations, unrestricted donations, donor motivation, charitable giving, organizational autonomy
-
-## worked.txt
-**Title:** What I Worked On
-**Summary:** Paul Graham reflects on his early pursuits in writing and programming, tracing his intellectual development from simple stories and early computers through learning Lisp and AI, discovering that hands-on exploration often proved more valuable than formal education.
-**Keywords:** programming, artificial intelligence, lisp, education, microcomputers, learning, self-taught, intellectual development
-
-## earnest.txt
-**Title:** Earnestness
-**Summary:** Earnestness—genuine interest in solving a problem for its own sake rather than for wealth or status—is the most valuable trait Graham looks for in startup founders because it provides the motivation and resilience necessary for success.
-**Keywords:** earnestness, startup founders, motives, genuine interest, nerds, naive optimism, silicon valley
-
-## ace.txt
-**Title:** Billionaires Build
-**Summary:** Successful billionaires and startups are built by creating something people genuinely want, not through exploitation, and the key to funding is identifying a real initial market of users who urgently need your product.
-**Keywords:** startups, entrepreneurship, product-market fit, user demand, larval markets, venture capital, yc funding, founders
-
-## airbnbs.txt
-**Title:** The Airbnbs
-**Summary:** Airbnb's success stemmed from the founders' relentless earnestness and refusal to give up despite severe obstacles, driven by their genuine belief in the experience they'd discovered rather than financial motivation.
-**Keywords:** airbnb, founders, persistence, early growth, startup culture, user experience, entrepreneurship, ramen profitability
+**Summary:** Donors should give unrestricted donations to nonprofits because the organizations understand their own needs better than outside donors do, and restricted donations force money to be spent suboptimally.
+**Keywords:** nonprofit funding, restricted donations, donor motivation, charitable giving, organizational autonomy, philanthropic strategy
 
 ## think.txt
 **Title:** How to Think for Yourself
-**Summary:** Success in fields like science, investing, and entrepreneurship requires independent thinking and novelty, while most other work only requires correctness, making it crucial to match your natural cognitive style to your career choice.
-**Keywords:** independent-mindedness, thinking differently, career choice, originality, entrepreneurship, conventional-minded, intellectual nature, nonconformity
+**Summary:** Independent-mindedness—the ability to think differently from peers—is essential for certain high-impact fields like science, investing, and entrepreneurship, but is largely innate; however, it can be cultivated by limiting exposure to conventional beliefs and surrounding yourself with independent-minded people.
+**Keywords:** independent-mindedness, unconventional thinking, originality, nature vs nurture, conformity, startup culture, intellectual development
 
 ## early.txt
 **Title:** Early Work
-**Summary:** Overcoming the fear of making something lame is essential for doing great work, and this fear can be unlearned through cultural shifts that treat early-stage ambitious projects with optimism rather than harsh judgment.
-**Keywords:** fear, early work, ambitious projects, innovation, silicon valley, optimism, new ideas, starting
-
-## wtax.txt
-**Title:** Modeling a Wealth Tax
-**Summary:** A mathematical analysis demonstrating that wealth taxes compound dramatically over time, with even modest tax rates consuming a substantial majority of a startup founder's stock accumulation over a 60-year lifetime.
-**Keywords:** wealth tax, taxation policy, startup founders, compounding effects, stock ownership, tax modeling, financial policy
-
-## conformism.txt
-**Title:** The Four Quadrants of Conformism
-**Summary:** People can be classified into four types based on their conformism—ranging from aggressively conventional-minded to aggressively independent-minded—and societies prosper by protecting the independent-minded who generate new ideas, a protection that has recently weakened.
-**Keywords:** conformism, independent-minded, conventional-minded, free inquiry, innovation, societal progress, personality types, intellectual freedom
+**Summary:** Overcoming the fear of making something lame is essential to doing great work, and this fear can be addressed through cultivating social customs that treat early-stage ambitious projects with optimism rather than harsh judgment.
+**Keywords:** fear, early work, new ideas, ambitious projects, silicon valley, optimism, innovation, social customs
 
 ## orth.txt
 **Title:** Orthodox Privilege
-**Summary:** Orthodox privilege blinds conventionally-minded people to the existence of true statements that are dangerous to express, making them unable to recognize censorship or self-censorship pressures that have existed throughout history.
-**Keywords:** orthodoxy, privilege, censorship, conformity, independent thinking, heresy, social pressure, free speech
+**Summary:** Conventional-minded people suffer from "orthodox privilege" that blinds them to the existence of true statements that are currently dangerous to express, making them unable to imagine viewpoints that differ from their social environment's accepted beliefs.
+**Keywords:** orthodox privilege, censorship, conformity, independent thinking, heresy, historical inevitability, social blindness
 
 ## cred.txt
 **Title:** Coronavirus and Credibility
-**Summary:** Major crises like epidemics reveal who genuinely understands issues versus who merely talks confidently about things they don't, providing an unusually accurate test of credibility.
-**Keywords:** credibility, predictions, coronavirus, misinformation, expertise, accountability, risk assessment, public discourse
-
-## useful.txt
-**Title:** How to Write Usefully
-**Summary:** Essays should aim to be useful by making claims that are true, important, novel, and as strong as possible without becoming false, achieved through rigorous editing and writing about topics you've deeply considered.
-**Keywords:** essay writing, usefulness, truth, novelty, importance, precision, editing, clarity
+**Summary:** Public figures who habitually make false predictions without consequence were exposed by the coronavirus pandemic, which provided an unusually rapid and unambiguous test of credibility.
+**Keywords:** credibility, prediction, coronavirus, pandemic, public figures, accountability, misinformation, expertise
 
 ## noob.txt
 **Title:** Being a Noob
-**Summary:** Feeling like a noob indicates you're learning something genuinely new, and despite being uncomfortable, this feeling is inversely correlated with actual ignorance and should be embraced as a sign of intellectual growth.
-**Keywords:** learning, discomfort, novelty, ignorance, growth, evolution, competence, discovery
+**Summary:** Feeling like a novice in unfamiliar domains is actually a sign of intellectual growth and learning, despite being evolutionarily programmed to dislike it, because the discomfort of being a noob correlates with exploring new knowledge rather than ignorance.
+**Keywords:** learning, growth, novice, competence, exploration, discomfort, evolution, knowledge
 
 ## fh.txt
 **Title:** Haters
-**Summary:** Fame inevitably produces both obsessive fans and obsessive haters—psychologically identical groups with opposite signs—and the best response is to ignore them rather than engage.
-**Keywords:** fame, haters, fanboys, obsession, identity, fraud, psychology, success
+**Summary:** Haters are obsessive, uncritical detractors whose dislike becomes part of their identity, functioning as the inverse of fanboys, and the best response is to ignore them rather than engage.
+**Keywords:** fame, haters, fanboys, obsession, identity, celebrities, psychological patterns, social dynamics
 
 ## mod.txt
 **Title:** The Two Kinds of Moderate
-**Summary:** Political moderation comes in two forms—intentional moderates who deliberately position themselves between extremes, and accidental moderates who independently evaluate each issue and happen to average toward the center, with the latter requiring more courage and intellectual integrity.
-**Keywords:** political moderation, ideology, independent thinking, intentional vs accidental, extremism, intellectual honesty, ideological conformity
+**Summary:** Political moderation comes in two forms—intentional moderates who deliberately position themselves at the midpoint between left and right, and accidental moderates who independently evaluate each issue and happen to average toward the center, with the latter requiring more courage and intellectual integrity than the former.
+**Keywords:** moderation, ideology, independent thinking, political extremes, intellectual integrity, ideologues, courage, belief systems
 
 ## fp.txt
 **Title:** Fashionable Problems
-**Summary:** Smart people often unconsciously pursue fashionable problems rather than exploring unexplored possibilities, but working on neglected areas within seemingly exhausted fields can yield disproportionate value if you genuinely love what you do.
-**Keywords:** fashionable problems, problem selection, innovation, unexplored possibilities, contrarian thinking, passion, competitive advantage, field exploration
-
-## lesson.txt
-**Title:** The Lesson to Unlearn
-**Summary:** Schools teach students to optimize for grades rather than learning, creating a misalignment between academic success and actual understanding that persists into adulthood and undermines genuine intellectual development.
-**Keywords:** grades, learning, education, testing, incentives, student behavior, schools, optimization
-
-## nov.txt
-**Title:** Novelty and Heresy
-**Summary:** Suppressing heresy prevents discovery of new ideas because truly novel insights often contradict deeply held mistaken assumptions that societies protect, creating unexplored "dead zones" around false beliefs.
-**Keywords:** novelty, heresy, mistaken assumptions, discovery, innovation, social resistance, new ideas, intellectual freedom
-
-## genius.txt
-**Title:** The Bus Ticket Theory of Genius
-**Summary:** Genius requires a disinterested obsession with something that matters, which serves as both a proxy for ability and a substitute for determination, allowing people to discover promising paths others overlook.
-**Keywords:** genius, obsession, natural ability, discovery, ambition, talent, innovation, persistence
-
-## sun.txt
-**Title:** General and Surprising
-**Summary:** The most valuable insights combine generality and surprise, but since that territory is picked clean, the practical strategy is to add small amounts of novelty to highly general ideas, which produces disproportionate value through a large multiplier effect.
-**Keywords:** insights, generality, novelty, surprising ideas, intellectual discovery, idea generation, thinking
-
-## pow.txt
-**Title:** Charisma / Power
-**Summary:** Powerful but uncharismatic people attract disproportionate criticism despite often being well-suited for leadership, and recognizing this bias is important for making sound judgments about their competence.
-**Keywords:** charisma, power, leadership, criticism, likability, ceo, builder, human nature
-
-## disc.txt
-**Title:** The Risk of Discovery
-**Summary:** Famous scientists appear less risky in retrospect because biographies omit their failures and their unconventional pursuits later become conventional wisdom, obscuring the genuine uncertainty and risk they faced when choosing what problems to solve.
-**Keywords:** risk, discovery, biography, newton, scientific judgment, uncertainty, unconventional pursuits, hindsight bias
-
-## pgh.txt
-**Title:** How to Make Pittsburgh a Startup Hub
-**Summary:** Pittsburgh can become a startup hub by attracting and retaining young people through affordable historic housing, independent restaurants and cafes, and streamlined permitting processes that create an appealing urban personality.
-**Keywords:** startup hub, pittsburgh, young talent, affordable housing, historic preservation, restaurants, urban development, silicon valley
-
-## vb.txt
-**Title:** Life is Short
-**Summary:** Life is genuinely short when measured discretely, and recognizing this should motivate us to eliminate bullshit and consciously prioritize activities that truly matter.
-**Keywords:** time, mortality, priorities, bullshit, meaning, authenticity, distraction, life decisions
-
-## ineq.txt
-**Title:** Economic Inequality
-**Summary:** Economic inequality has multiple distinct causes—some harmful like rent-seeking and some beneficial like technological innovation and wealth creation—so attempting to reduce it requires understanding and addressing specific causes rather than treating it as a single phenomenon.
-**Keywords:** economic inequality, wealth creation, technology, startups, pie fallacy, productivity, rent-seeking
-
-## re.txt
-**Title:** The Refragmentation
-**Summary:** The fragmentation visible in modern American society—political polarization, cultural division, economic inequality, and geographic sorting—results not from new divisive forces but from the erosion of two mid-20th-century phenomena that had artificially pushed society toward unity: World War II and the rise of large national corporations.
-**Keywords:** fragmentation, world war ii, large corporations, economic equality, social cohesion, polarization, consolidation, mid-century
+**Summary:** The most innovative breakthroughs come from exploring unfashionable problems in established fields rather than joining the crowd working on trendy topics.
+**Keywords:** fashionable problems, innovation, unexplored possibilities, contrarian thinking, field exploration, intellectual independence, breakthrough potential
 
 ## jessica.txt
 **Title:** Jessica Livingston
-**Summary:** Jessica Livingston was a co-founder of Y Combinator whose exceptional ability to judge character and define organizational culture was critical to YC's success, though her contributions have been widely overlooked because she avoids public attention.
-**Keywords:** y combinator, jessica livingston, founders, character judgment, startup culture, organizational leadership, alumni network, paul graham
+**Summary:** Jessica Livingston was the critical but underrecognized co-founder of Y Combinator whose exceptional ability to judge character shaped the organization's culture and success in selecting founders.
+**Keywords:** y combinator, jessica livingston, founder selection, character judgment, startup culture, early-stage investing, founder evaluation, alumni network
 
 ## bias.txt
 **Title:** A Way to Detect Bias
-**Summary:** Bias in selection processes can be detected by comparing the subsequent performance of selected applicants across different groups—if one group outperforms others despite facing a harder selection bar, it reveals bias against that group.
-**Keywords:** bias detection, selection process, performance measurement, venture capital, female founders, statistical analysis, discrimination
+**Summary:** Bias in selection processes can be detected by comparing the subsequent performance of selected applicants across different groups—if a group is discriminated against, its successful applicants will systematically outperform others.
+**Keywords:** bias detection, selection process, performance measurement, statistical analysis, discrimination, venture capital, applicant evaluation
 
 ## talk.txt
 **Title:** Write Like You Talk
-**Summary:** Writing in conversational language rather than formal written language makes your writing more engaging, easier to understand, and more effective at communicating ideas.
-**Keywords:** writing, spoken language, clarity, simplicity, style, audience engagement, formal writing, communication
+**Summary:** Writing in spoken language rather than formal written language makes your prose more engaging, clear, and easier to read because it forces you to communicate ideas directly without unnecessary complexity.
+**Keywords:** writing, spoken language, clarity, simplicity, formal language, readability, communication, style
 
 ## aord.txt
 **Title:** Default Alive or Default Dead?
-**Summary:** Startup founders should constantly evaluate whether their company is "default alive" (will reach profitability given current trajectory) or "default dead" (will run out of money), and avoid the fatal mistake of hiring too fast before achieving product-market fit.
-**Keywords:** startup survival, runway, profitability, hiring, default alive, fundraising, product-market fit, burn rate
-
-## safe.txt
-**Title:** Why It's Safe for Founders to Be Nice
-**Summary:** Startup founders can safely be nice people because superlinear growth from creating great products compounds faster than any gains from ruthless extraction, making niceness mathematically irrelevant to success.
-**Keywords:** startup founders, growth rate, niceness, compounding, word-of-mouth, rapacity, optimization, entrepreneurship
+**Summary:** Startup founders should regularly determine whether their business is "default alive" (reaching profitability with current trajectory) or "default dead" (running out of money), and avoid the fatal pinch by not overhiring and maintaining a survival plan independent of future fundraising.
+**Keywords:** startup survival, default alive, default dead, runway, hiring, fundraising, profitability, cash burn
 
 ## name.txt
 **Title:** Change Your Name
-**Summary:** Startup founders should change their company name if they don't own the .com domain, as lacking it signals weakness and is a fixable mistake driven by psychological attachment and poor naming skills.
-**Keywords:** startup naming, domain names, founder psychology, brand identity, .com domains, company rebranding, denial bias
-
-## altair.txt
-**Title:** What Microsoft Is this the Altair Basic of?
-**Summary:** Great companies often start with ideas that seem ridiculous or wrong, so the key to evaluating startups is asking what giant company each lame-sounding idea could eventually become.
-**Keywords:** startups, founders, innovation, success, microsoft, prediction, entrepreneurship, instinct
+**Summary:** Startups should change their name if they cannot secure the .com domain, as not having it signals weakness and founders' attachment to their current name is based on identity bias rather than intrinsic quality.
+**Keywords:** startup naming, domain names, .com, founder psychology, branding, company identity, denial bias, naming strategy
 
 ## ronco.txt
 **Title:** The Ronco Principle
-**Summary:** In increasingly transparent and unpredictable environments like the startup world, genuine goodness becomes the most effective strategy because it's impossible to selectively appear good without actually being good.
-**Keywords:** success, ethics, transparency, startup investing, reputation, authenticity, ron conway, business strategy
+**Summary:** In increasingly transparent and unpredictable environments like the startup world, genuine integrity becomes more profitable than appearing good, because it becomes impossible to selectively mistreat people without consequences.
+**Keywords:** integrity, reputation, transparency, startup investing, ron conway, authenticity, trust, unpredictability
 
 ## work.txt
 **Title:** What Doesn't Seem Like Work?
-**Summary:** Finding your ideal work involves identifying tasks that seem effortless or enjoyable to you but feel like work to others, as these reveal your natural aptitudes and interests.
-**Keywords:** career choice, aptitude, intrinsic motivation, work preference, passion, problem-solving, self-discovery
-
-## corpdev.txt
-**Title:** Don't Talk to Corp Dev
-**Summary:** Founders should avoid talking to corporate development unless they genuinely want to sell their company immediately, as these conversations distract from growth, demoralize teams, and expose startups to manipulative negotiation tactics.
-**Keywords:** corporate development, acquisitions, startup strategy, negotiation tactics, founder mistakes, company sales, m&a, avoiding distractions
+**Summary:** Finding work that doesn't feel like work to you is a reliable indicator of what you're naturally suited for, and recognizing tasks that seem effortless to you but burdensome to others can guide career decisions.
+**Keywords:** career choice, aptitude, intrinsic motivation, work satisfaction, problem-solving, personal strengths, talent identification
 
 ## 95.txt
 **Title:** Let the Other 95% of Great Programmers In
-**Summary:** The US should liberalize immigration for exceptional programmers because exceptional talent cannot be trained and 95% of the world's great programmers are born outside America, making immigration critical to maintaining technological competitiveness.
-**Keywords:** immigration, programming talent, exceptional ability, tech talent shortage, silicon valley, competitive advantage, training limits, global talent
-
-## ecw.txt
-**Title:** How to Be an Expert in a Changing World
-**Summary:** To remain an expert in a changing world, you must actively expect change, stay open-minded rather than predictive, surround yourself with innovative people, and be willing to revise beliefs rather than accumulating false confidence over time.
-**Keywords:** expertise, obsolete beliefs, change, startup investing, open-mindedness, innovation, prediction, domain experts
+**Summary:** The US should liberalize immigration policy for programmers because exceptional programming talent cannot be trained and is distributed globally, with 95% of great programmers born outside America, making immigration essential for maintaining technological competitiveness.
+**Keywords:** immigration, programmer talent, exceptional ability, technology competitiveness, global talent, training limitations, silicon valley, foreign workers
 
 ## know.txt
 **Title:** How You Know
-**Summary:** Reading and experience shape your mental models in ways that persist even after you forget the specific details, making the act of learning through reading and rereading more valuable than memory alone suggests.
-**Keywords:** learning, memory, mental models, reading, experience, knowledge, forgetting, compilation
-
-## pinch.txt
-**Title:** The Fatal Pinch
-**Summary:** Founders in the "fatal pinch"—when a startup has dwindling runway despite significant funding—often fatally misjudge their chances of raising more money, but can survive by either shutting down, cutting costs (especially through firing), or dramatically increasing revenues through alternative business models.
-**Keywords:** startup funding, runway, investor pitching, cash burn, profitability, scaling, startup failure
+**Summary:** Reading and experience shape your mental models in ways that persist even after you forget the specific content, making the value of learning lie not in what you remember but in how it changes your understanding of the world.
+**Keywords:** learning, memory, mental models, reading, knowledge, experience, understanding, compilation
 
 ## mean.txt
 **Title:** Mean People Fail
-**Summary:** Meanness is inversely correlated with success in modern knowledge work because mean people think poorly under pressure, cannot attract top talent, and lack the benevolent motivation that drives founders to create lasting value, while success increasingly depends on ideas and building rather than zero-sum resource competition.
-**Keywords:** meanness, success, startups, character, founders, ideas, benevolence, zero-sum games
+**Summary:** Mean people tend to fail in modern knowledge-based work because meanness impairs judgment, prevents attracting top talent, and conflicts with the benevolent motivation that drives successful founders, a pattern that will intensify as success increasingly depends on creating new ideas rather than controlling scarce resources.
+**Keywords:** meanness, success, startups, character, zero-sum games, benevolence, ideas, talent
 
 ## before.txt
 **Title:** Before the Startup
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Startups are counterintuitive endeavors that require suppressing normal instincts, trusting your judgment about people, focusing on solving real user problems rather than startup mechanics, and avoiding the trap of mimicking startup forms without creating genuine value.
+**Keywords:** startups, counterintuitive, founders, user problems, instincts, startup mechanics, preparation, advice
 
 ## fr.txt
 **Title:** How to Raise Money
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, money, raise, start, startup
+**Summary:** Fundraising requires founders to understand investor psychology and behavior by following disciplined rules to navigate the process efficiently, focusing on raising money only when both the startup needs it and investors want it.
+**Keywords:** fundraising, startups, investor psychology, phase 2 funding, founder discipline, growth, convertible notes
 
 ## herd.txt
 **Title:** Investor Herd Dynamics
-**Summary:** [one sentence describing the essay's thesis]
-**Keywords:** [5-8 lowercase topic words, comma-separated]
+**Summary:** Investor decisions are heavily influenced by herd dynamics where other investors' interest creates a self-reinforcing cycle, but this stampede effect is neither reliable nor necessary for startup success.
+**Keywords:** investor behavior, herd dynamics, fundraising, startup valuation, investor psychology, deal momentum, hot deals
 
 ## convince.txt
 **Title:** How to Convince Investors
-**Summary:** Want to start a startup?
-**Keywords:** combinator, convince, funded, investors, start, startup
+**Summary:** Successful startup fundraising depends primarily on founders being genuinely formidable and truthfully convinced of their startup's merit, not on polished pitching skills.
+**Keywords:** startup funding, founder credibility, investor decision-making, domain expertise, pitch authenticity, power law outcomes, convincing investors
 
 ## ds.txt
 **Title:** Do Things that Don't Scale
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Startups succeed by manually recruiting users and doing unscalable things early on, using compound growth to eventually reach scale once initial traction is established.
+**Keywords:** startup growth, user acquisition, manual recruitment, scaling, early stage, compound growth, founder effort
 
 ## invtrend.txt
 **Title:** Startup Investing Trends
-**Summary:** Startup investing will likely become more profitable in aggregate as the cost of founding startups decreases and entrepreneurship becomes a normalized career path, creating more opportunities for successful exits despite founders retaining larger equity stakes.
-**Keywords:** startup investing, venture capital, founder equity, startup trends, declining startup costs, social change, investor returns, startup valuations
+**Summary:** The startup investing landscape is shifting toward higher founder power and better returns due to decreasing startup costs and increasing social acceptance of entrepreneurship, which will likely produce more successful companies and greater opportunities for discerning investors.
+**Keywords:** startup funding, venture capital, founder power, startup costs, social trends, investor returns, technology entrepreneurship
 
 ## startupideas.txt
 **Title:** How to Get Startup Ideas
-**Summary:** Want to start a startup?
-**Keywords:** startup, combinator, funded, ideas, start
+**Summary:** The best startup ideas come from identifying real problems you personally experience and can solve, rather than trying to invent ideas, and should focus on solving acute needs for a small group of users rather than mild wants for a large audience.
+**Keywords:** startup ideas, problem-solving, user needs, product market fit, founders, well-shaped demand, execution
 
 ## hw.txt
 **Title:** The Hardware Renaissance
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, hardware, renaissance, start, startup
+**Summary:** Hardware startups are experiencing a renaissance due to technological advances making manufacturing easier, and founders should pursue hardware ideas despite investor bias because the historical advantage of software over hardware may be temporary.
+**Keywords:** hardware startups, manufacturing, prototyping, investor bias, crowdfunding, arduino, software vs hardware
 
 ## growth.txt
 **Title:** Startup = Growth
-**Summary:** Want to start a startup?
-**Keywords:** startup, combinator, funded, growth, start
+**Summary:** A startup is fundamentally defined by its design for rapid growth, which serves as a compass for all decisions and distinguishes it from ordinary businesses that are constrained in market size or scalability.
+**Keywords:** startup, growth, scalability, market size, technology, founders, innovation, competition
 
 ## swan.txt
 **Title:** Black Swan Farming
-**Summary:** [one sentence describing the essay's thesis]
-**Keywords:** [5-8 lowercase topic words, comma-separated]
+**Summary:** Successful startup investing requires recognizing that returns are concentrated in a few massive winners that initially seem like bad ideas, forcing investors to ignore intuitive metrics and bet on contrarian opportunities.
+**Keywords:** startup investing, black swan events, outliers, venture capital, counterintuitive thinking, idea selection, risk management, founder potential
 
 ## todo.txt
 **Title:** The Top of My Todo List
-**Summary:** To avoid the common regrets of the dying, you must actively resist default behaviors that lead to omission errors by keeping explicit reminders of what matters most—your dreams, relationships, authenticity, and happiness—at the forefront of your daily life.
-**Keywords:** regrets, defaults, omission, todo list, dreams, relationships, authenticity, happiness
+**Summary:** To avoid the common deathbed regrets of the dying, invert them into five commands—pursue your dreams, don't overwork, speak your mind, nurture friendships, and prioritize happiness—and keep them visible on your todo list as daily reminders.
+**Keywords:** regrets, mistakes of omission, priorities, happiness, dreams, work-life balance, todo list
 
 ## speak.txt
 **Title:** Writing and Speaking
-**Summary:** Writing prioritizes ideas while speaking prioritizes delivery and engagement, creating a fundamental tradeoff where becoming an excellent speaker often requires compromising the development and communication of substantive ideas.
-**Keywords:** writing, speaking, ideas, communication, delivery, engagement, style, rhetoric
+**Summary:** Writing prioritizes ideas while speaking prioritizes delivery and entertainment, making excellence in each domain require fundamentally different skills that often conflict with each other.
+**Keywords:** writing, speaking, ideas, rhetoric, audience, delivery, communication, tradeoffs
 
 ## ycstart.txt
 **Title:** How Y Combinator Started
-**Summary:** Y Combinator was founded in March 2005 when Paul Graham and Jessica Livingston decided to create a standardized seed funding firm modeled on their own early experience, accidentally discovering that synchronous batch funding of startups would become their most important innovation.
-**Keywords:** startup funding, seed capital, y combinator origins, venture capital, batch programs, angel investing, founder selection
+**Summary:** Y Combinator was founded in March 2005 when Paul Graham and Jessica Livingston decided to create a standardized seed funding firm modeled on their own startup experience, initially as a summer program that unexpectedly became the foundation for a national investment model based on synchronous batch funding of multiple startups.
+**Keywords:** startup funding, seed investing, y combinator, venture capital, angel investors, batch model, founders, business
 
 ## property.txt
 **Title:** Defining Property
-**Summary:** Property rights are not fixed definitions but evolve based on what practically works in a given technological context, and the music and film industries' attempts to maintain outdated copyright protections through legal coercion demonstrate that their definition of intellectual property no longer works in the digital age.
-**Keywords:** property rights, digital distribution, copyright, technology, intellectual property, innovation, legal systems, content ownership
+**Summary:** Property rights are not fixed but evolve based on what practically works in a given technological context, and media companies' attempts to enforce outdated definitions of ownership through legal coercion rather than adapting to digital networks demonstrates a property regime that no longer functions.
+**Keywords:** property rights, digital distribution, copyright, technology, intellectual property, legal systems, media industry, innovation
 
 ## ambitious.txt
 **Title:** Frighteningly Ambitious Startup Ideas
-**Summary:** Truly transformative startup ideas often seem frighteningly ambitious and implausible at first, but the most successful founders pursue ideas that others dismiss as impossible because they're solving important problems with new technology.
-**Keywords:** startup ideas, ambitious projects, fear, innovation, market validation, founder psychology, technology disruption, y combinator
+**Summary:** The most ambitious startup ideas are psychologically intimidating because they threaten one's sense of identity, making them invisible to most entrepreneurs, but this fear is actually a sign of their potential value.
+**Keywords:** startup ideas, ambition, fear, search engine, email, innovation, entrepreneurship, identity
 
 ## word.txt
 **Title:** A Word to the Resourceful
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Successful startup founders demonstrate resourcefulness through conversational agility—the ability to understand implications and act on feedback—while unsuccessful founders' difficulty in communication reveals an underlying lack of resourcefulness that dooms their ventures.
+**Keywords:** resourcefulness, startup founders, conversational ability, feedback, startup success, founder qualities, implications, denial
 
 ## schlep.txt
 **Title:** Schlep Blindness
-**Summary:** People often fail to start successful startups because they are "schlep blind" — unable to see opportunities that require unglamorous, tedious work, even when those opportunities are valuable and underexploited.
-**Keywords:** startups, schlep blindness, unglamorous work, opportunity recognition, entrepreneurship, bias, hard work, competitive advantage
+**Summary:** Successful startup ideas often involve difficult, unpleasant tasks that entrepreneurs unconsciously avoid considering, a phenomenon called "schlep blindness" that can be overcome by identifying problems you wish others would solve rather than problems you want to solve yourself.
+**Keywords:** startup ideas, schlep blindness, entrepreneurship, painful tasks, stripe, founder psychology, ambitious problems, business reality
 
 ## vw.txt
 **Title:** Snapshot: Viaweb, June 1998
-**Summary:** Paul Graham provides a nostalgic technical and business overview of Viaweb's website as it existed in June 1998, just before Yahoo's acquisition, highlighting the constraints and innovations of 1990s web technology and e-commerce.
-**Keywords:** viaweb, e-commerce, web design, 1998, yahoo acquisition, web technology, startups, online retail
+**Summary:** Paul Graham provides a retrospective snapshot of Viaweb's website from June 1998, just before Yahoo's acquisition, explaining the technical choices, design constraints, and business strategies that characterized the early e-commerce platform.
+**Keywords:** viaweb, e-commerce, 1998, web design, early internet, yahoo acquisition, online stores, web technology
 
 ## hubs.txt
 **Title:** Why Startup Hubs Work
-**Summary:** Startup hubs work because they create dense networks of founders, investors, and talented people that enable rapid information flow, recruiting, and deal-making that wouldn't be possible elsewhere.
-**Keywords:** startup hubs, network effects, geographic clustering, founder density, information flow, talent recruitment, venture capital, ecosystem
+**Summary:** Startup hubs like Silicon Valley succeed not by preventing startup failure, but by providing an environment where ambitious people and chance encounters with helpful mentors make success more likely.
+**Keywords:** startup hubs, silicon valley, entrepreneurship, environment, network effects, chance meetings, culture
 
 ## patentpledge.txt
 **Title:** The Patent Pledge
-**Summary:** Technology companies can combat patent abuse against startups through a public pledge not to use software patents against small competitors, creating market pressure without requiring government reform.
-**Keywords:** patents, startups, innovation, pledge, corporate ethics, competition, patent reform, software
+**Summary:** Technology companies can voluntarily pledge not to use software patents against small startups to discourage anti-competitive behavior without waiting for government patent reform.
+**Keywords:** patents, startups, innovation, pledge, technology companies, competition, patent reform, software patents
 
 ## airbnb.txt
 **Title:** Subject: Airbnb
-**Summary:** Paul Graham documents his email exchange with investor Fred Wilson attempting to convince him to invest in Airbnb, revealing how early-stage startup evangelism works within the venture capital ecosystem.
-**Keywords:** airbnb, venture capital, startup investing, early stage, market opportunity, investor skepticism, persuasion
+**Summary:** Paul Graham documents his email exchange with Fred Wilson attempting to convince the VC to invest in Airbnb in early 2009, illustrating the behind-the-scenes persuasion that occurs within the investor ecosystem.
+**Keywords:** airbnb, venture capital, startup investing, investor relations, email exchange, vc decision-making, early stage companies
 
 ## control.txt
 **Title:** Founder Control
-**Summary:** [one sentence thesis]
-**Keywords:** [5-8 lowercase topic words]
+**Summary:** Founder board control after Series A funding is becoming increasingly common and will likely become the norm, benefiting both founders and VCs by encouraging better founder selection and alignment.
+**Keywords:** founder control, board seats, series a, venture capital, startup governance, fundraising, investor relations, negotiation
 
 ## tablets.txt
 **Title:** Tablets
-**Summary:** Tablets will become the dominant computing platform because software running on versatile devices will replace specialized physical objects through the technological force of ephemeralization, creating opportunities for startups and competition with Apple.
-**Keywords:** tablets, ephemeralization, ipad, smartphones, platform, software, startups, apple
+**Summary:** Tablets will replace numerous special-purpose physical objects through software apps, driven by the technological force of ephemeralization, and competitors should focus on being more open platforms rather than trying to match Apple's design.
+**Keywords:** tablets, ephemeralization, mobile devices, software replacement, platform competition, iphone, ipad, startups
 
 ## founders.txt
 **Title:** What We Look for in Founders
-**Summary:** Y Combinator looks for founders who are smart, determined, and have good communication skills, combined with domain expertise and the ability to adapt quickly to changing circumstances.
-**Keywords:** startup founders, entrepreneurship, selection criteria, determination, intelligence, communication, adaptability, domain expertise
+**Summary:** Successful startup founders need determination, flexibility, imagination, a willingness to break rules, and strong partnerships with co-founders rather than raw intelligence alone.
+**Keywords:** startup founders, determination, flexibility, imagination, entrepreneurship, qualities, venture capital, y combinator
 
 ## superangels.txt
 **Title:** The New Funding Landscape
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, funding, landscape, start, startup
+**Summary:** The startup funding landscape is undergoing significant disruption with the emergence of super-angels—a new class of investors positioned between traditional angels and venture capitalists—who are changing the rules of fundraising and threatening traditional VC dominance.
+**Keywords:** startup funding, super-angels, venture capital, fundraising, investor competition, valuation, startup ecosystem
 
 ## seesv.txt
 **Title:** Where to See Silicon Valley
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Silicon Valley's significance lies not in obvious monuments but in subtle geographic and architectural features—from Stanford's ideal location to the cafes where founders pitch investors to the venture capital offices on Sand Hill Road—that reveal why this sprawling suburban region became the world's innovation hub.
+**Keywords:** silicon valley, stanford university, palo alto, venture capital, startup ecosystem, sand hill road, geography, innovation
 
 ## hiresfund.txt
 **Title:** High Resolution Fundraising
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, fundraising, high, resolution, start, startup
+**Summary:** Convertible notes enable "high-resolution fundraising" by allowing startups to offer different terms to different investors, breaking deadlocks and rewarding early commitments while better matching investor value.
+**Keywords:** convertible notes, fundraising, investor deadlock, valuation caps, angel rounds, startup funding, deal structure, investor behavior
 
 ## yahoo.txt
 **Title:** What Happened to Yahoo
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, happened, start, startup, yahoo
+**Summary:** Yahoo's decline resulted from two fundamental problems: dependence on inflated banner ad revenues that obscured the true value of search traffic, and organizational ambivalence about being a technology company rather than a media company.
+**Keywords:** yahoo, search, advertising, revenue, business strategy, media company, google, internet bubble
 
 ## future.txt
 **Title:** The Future of Startup Funding
-**Summary:** Want to start a startup?
-**Keywords:** startup, combinator, funded, funding, future, start
+**Summary:** As startup funding needs decrease and super-angels emerge as competitive investors, traditional VCs must adapt by doing smaller deals with fewer board seats, or risk gradually losing market share to more agile investors focused on early-stage rounds.
+**Keywords:** startup funding, venture capital, super-angels, series a rounds, angel investors, board seats, founder equity, deal flow
 
 ## addiction.txt
 **Title:** The Acceleration of Addictiveness
-**Summary:** Technological progress that makes things more efficient also makes addictive substances and experiences more concentrated and compelling, accelerating a trend that will force individuals to develop personal strategies for resisting increasingly addictive technologies and products.
-**Keywords:** addiction, technological progress, addictiveness, internet, social norms, self-discipline, modern life
+**Summary:** Technological progress accelerates the concentration and addictiveness of substances and experiences, requiring individuals to increasingly reject new things and develop personal strategies to maintain well-being as societal norms lag behind innovation.
+**Keywords:** addiction, technological progress, addictiveness, social norms, innovation, self-discipline, internet, behavior change
 
 ## top.txt
 **Title:** The Top Idea in Your Mind
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, idea, mind, start, startup
+**Summary:** The most important factor in accomplishing meaningful work is controlling what idea occupies your mind during unstructured moments, and you must avoid letting urgent but unimportant concerns like fundraising or disputes become your top priority.
+**Keywords:** top idea, attention, startup, fundraising, focus, ambient thought, productivity, distraction
 
 ## organic.txt
 **Title:** Organic Startup Ideas
-**Summary:** Want to start a startup?
-**Keywords:** startup, combinator, funded, ideas, organic, start
+**Summary:** The most successful startups emerge organically from solving problems the founders personally experience, rather than from predetermined ideas about what other people need.
+**Keywords:** startup ideas, organic problems, founders, user needs, broken solutions, young entrepreneurs, product development
 
 ## apple.txt
 **Title:** Apple's Mistake
-**Summary:** Want to start a startup?
-**Keywords:** apple, combinator, funded, mistake, start, startup
+**Summary:** Apple's App Store approval process is broken and has severely damaged their reputation with programmers by obstructing modern software development practices like rapid iteration and bug fixes.
+**Keywords:** app store, apple, software development, approval process, programmers, reputation, iteration, quality control
 
 ## really.txt
 **Title:** What Startups Are Really Like
-**Summary:** [one sentence]
-**Keywords:** [5-8 words]
+**Summary:** Starting a startup involves intense cofounder relationships, all-consuming work, extreme emotional swings, and unexpected fulfillment—challenges that are often more surprising and severe than founders anticipate.
+**Keywords:** startups, cofounders, entrepreneurship, emotional intensity, commitment, startup culture, founding teams, work-life balance
 
 ## discover.txt
 **Title:** Persuade xor Discover
-**Summary:** Writing essays to discover truth requires directness and offends readers, while writing to persuade requires padding that corrupts ideas, so writers must choose between pandering to misconceptions or truthfully challenging them.
-**Keywords:** essays, persuasion, truth, discovery, writing, ideas, honesty, bias
+**Summary:** Essays should prioritize discovering truth through concise, unvarnished writing rather than persuading readers by padding arguments with ingratiating language that obscures ideas and compromises intellectual honesty.
+**Keywords:** essays, persuasion, discovery, truth, writing, honesty, ideas, rhetoric
 
 ## publishing.txt
 **Title:** Post-Medium Publishing
-**Summary:** Publishers have historically sold access to physical media rather than content itself, and now that digital distribution has made the medium irrelevant, they have nothing left to sell because consumers have never been willing to pay for content alone.
-**Keywords:** publishing, digital distribution, content, media business models, information economics, paywalls, format versus content
+**Summary:** Publishers have historically sold the medium (paper, physical formats) rather than content itself, and now that digital distribution has eliminated the medium, they have nothing left to sell because consumers have never truly paid for content alone.
+**Keywords:** publishing, digital distribution, content economics, media business models, pricing, software, information, internet
 
 ## nthings.txt
 **Title:** The List of N Things
-**Summary:** The list of n things is a popular but degenerate essay format that appeals to both readers and writers because it provides explicit structure, requires less intellectual work, and is fault-tolerant, though it can be dishonest when falsely claiming exhaustiveness.
-**Keywords:** essay structure, list format, readability, writing craft, reader engagement, simplicity, rhetorical forms
+**Summary:** The list of n things format is popular because it's structurally simpler and easier to read than traditional essays, though it can be used dishonestly and should be taught more explicitly to beginning writers.
+**Keywords:** essay structure, list format, writing, readability, reader engagement, journalism, simplicity
 
 ## determination.txt
 **Title:** The Anatomy of Determination
-**Summary:** Want to start a startup?
-**Keywords:** anatomy, combinator, determination, funded, start, startup
+**Summary:** Determination, not intelligence, is the primary predictor of startup success, and it comprises three key components—willfulness, discipline, and ambition—that must be carefully balanced to achieve great things.
+**Keywords:** determination, startups, willfulness, discipline, ambition, talent, success, founders
 
 ## kate.txt
 **Title:** What Kate Saw in Silicon Valley
-**Summary:** An architect new to Y Combinator observes nine surprising contrasts between startup culture and the broader world, revealing how startups represent a fundamentally different approach to work and innovation.
-**Keywords:** startups, silicon valley, startup culture, failure, iteration, founders, scrappy, advice, innovation
+**Summary:** An architect new to Y Combinator observes nine surprising contrasts between startup culture and the broader world, suggesting startup practices may represent the future of work.
+**Keywords:** startup culture, failure, iteration, founders, silicon valley, venture capital, innovation, risk-taking
 
 ## segway.txt
 **Title:** The Trouble with the Segway
-**Summary:** The Segway failed because its design makes riders look smug and effortless, which social perception research suggests people find uncool, a problem the company never discovered due to having too much funding to iterate with real users.
-**Keywords:** segway, product design, social perception, failure, user feedback, market adoption, startup funding
+**Summary:** The Segway failed because it makes riders look smug by appearing effortless, when consumers subconsciously prefer transportation that suggests the rider is exerting effort, a problem the company never discovered because its well-funded secrecy prevented real-world testing and feedback.
+**Keywords:** segway, product design, perception, consumer psychology, effort, market failure, innovation, user feedback
 
 ## ramenprofitable.txt
 **Title:** Ramen Profitable
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, profitable, ramen, start, startup
+**Summary:** Ramen profitability—when a startup generates just enough revenue to cover founders' living expenses—buys independence from investors and offers significant advantages including better negotiating terms, increased investor attractiveness, improved morale, and uninterrupted focus on product development.
+**Keywords:** startup funding, profitability, bootstrapping, investor independence, software startups, business sustainability, founder morale, product development
 
 ## makersschedule.txt
 **Title:** Maker's Schedule, Manager's Schedule
-**Summary:** Makers like programmers and writers operate on a fundamentally different schedule than managers, where interruptions and meetings have disproportionately high costs to their productivity and creative output.
-**Keywords:** meetings, schedule, makers, managers, productivity, interruptions, time management, creativity
+**Summary:** Programmers and makers operate on a different schedule than managers, where meetings cost them significantly more because they need long uninterrupted blocks of time to work effectively, creating friction when powerful people on manager schedules interrupt their workflow.
+**Keywords:** schedules, meetings, makers, managers, productivity, interruptions, time management, work modes
 
 ## revolution.txt
 **Title:** A Local Revolution?
-**Summary:** Startups represent a transformative economic revolution like industrialization, but unlike previous revolutions they will remain geographically concentrated in a few specialized centers like Silicon Valley because startup culture is a social phenomenon that doesn't spread naturally and lacks the market forces that dispersed earlier innovations.
-**Keywords:** startups, silicon valley, economic revolution, geographic concentration, innovation hubs, startup culture, technology centers, network effects
+**Summary:** Startups may represent a revolutionary economic phase like the Industrial Revolution, but unlike previous revolutions, they are geographically concentrated in specialized centers like Silicon Valley and are unlikely to spread widely because they depend on social networks rather than geographic resources or market necessity.
+**Keywords:** startups, silicon valley, geographic concentration, economic revolution, innovation hubs, entrepreneurship, industrial revolution, social networks
 
 ## twitter.txt
 **Title:** Why Twitter is a Big Deal
-**Summary:** Twitter represents a rare new messaging protocol that succeeds because it operates like an open protocol despite being privately owned, making it a significant development in communication infrastructure.
-**Keywords:** twitter, messaging protocol, communication, innovation, private ownership, monetization, internet infrastructure
+**Summary:** Twitter represents a rare new messaging protocol that feels like a public standard despite being privately owned, which has enabled its rapid adoption and cultural significance.
+**Keywords:** twitter, protocols, messaging, private company, monetization, internet standards, adoption
 
 ## foundervisa.txt
 **Title:** The Founder Visa
-**Summary:** The US government should create a new visa class for startup founders, allowing 10,000 annually, which would cost nothing but significantly boost economic growth by enabling foreign entrepreneurs to start companies that create jobs for Americans.
-**Keywords:** startup visa, immigration policy, founder recruitment, economic growth, venture capital, entrepreneurship, job creation
+**Summary:** The U.S. government should create a startup founder visa to allow 10,000 foreign entrepreneurs annually, which would cost nothing but could significantly boost economic growth by removing immigration barriers to new company creation.
+**Keywords:** startup founders, visa policy, immigration, entrepreneurship, economic growth, job creation, investor accreditation
 
 ## 5founders.txt
 **Title:** Five Founders
-**Summary:** Steve Jobs, TJ Rodgers, Larry and Sergey, Paul Buchheit, and Sam Altman are the five most influential startup founders of the last 30 years, each exemplifying distinct qualities like design sensibility, intellectual rigor, hiring excellence, product vision, and force of will that have shaped startup culture.
-**Keywords:** startup founders, steve jobs, design, influence, silicon valley, google, ambition, leadership
+**Summary:** The five most influential startup founders of the last 30 years are Steve Jobs, TJ Rodgers, Larry Page and Sergey Brin, Paul Buchheit, and Sam Altman, each of whom exemplifies different qualities that define successful entrepreneurship.
+**Keywords:** startup founders, steve jobs, design, google, influence, entrepreneurship, venture capital, strategy
 
 ## relres.txt
 **Title:** Relentlessly Resourceful
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, relentlessly, resourceful, start, startup
+**Summary:** The defining quality of a successful startup founder is being "relentlessly resourceful"—combining unwavering determination with flexible problem-solving to overcome novel obstacles, a trait that can often be taught to those without ingrained passivity.
+**Keywords:** startup founders, resourcefulness, entrepreneurship, qualities of success, obstacle-solving, adaptability, startup culture
 
 ## angelinvesting.txt
 **Title:** How to Be an Angel Investor
-**Summary:** Angel investing is simpler than it appears—success depends far more on picking the right startups than on mastering deal mechanics or negotiating favorable terms.
-**Keywords:** angel investing, startup funding, deal terms, valuation, investment mechanics, syndication, due diligence, equity stakes
+**Summary:** Angel investing is simpler than it appears—success comes primarily from identifying promising startups rather than optimizing deal mechanics, and investors should focus their effort on evaluating company quality over negotiating terms.
+**Keywords:** angel investing, startup funding, deal terms, valuation, equity, investor mechanics, due diligence
 
 ## convergence.txt
 **Title:** Why TV Lost
-**Summary:** Computers defeated television as the dominant medium because the Internet's open platform, combined with Moore's Law, piracy, and especially social applications that drove user adoption, proved more powerful than TV networks' closed broadcast model.
-**Keywords:** television, internet, convergence, social networks, innovation, piracy, broadcast media, computers
+**Summary:** Computers defeated television as the primary entertainment medium due to the internet's open platform, Moore's Law bandwidth improvements, piracy convenience, and most importantly, social applications that made computers essential for connecting with peers.
+**Keywords:** television, internet, convergence, social networks, media, innovation, streaming, platform
 
 ## maybe.txt
 **Title:** Can You Buy a Silicon Valley?  Maybe.
-**Summary:** Cities can create a startup hub by funding startups substantially enough to prevent them from relocating to Silicon Valley, though the main challenge lies in selecting which startups to fund rather than the cost itself.
-**Keywords:** silicon valley, startups, venture capital, city economic development, startup funding, relocation, angel investors, startup hubs
+**Summary:** Cities could theoretically create a startup hub by offering substantial funding to promising early-stage startups to relocate locally, though the main challenge lies in identifying which startups to fund without access to rare venture capital expertise.
+**Keywords:** silicon valley, startup hubs, venture capital, seed funding, regional development, startup relocation, angel investors, city economics
 
 ## hackernews.txt
 **Title:** What I've Learned from Hacker News
-**Summary:** Hacker News' growth from a side project to 22,000 daily users has taught Graham that community dilution is solvable through behavior standards rather than user restrictions, and that maintaining site character requires careful curation of both submissions and moderation based on broken windows theory.
-**Keywords:** community moderation, dilution, user behavior, site culture, growth management, broken windows theory, voting systems, internet conversation
+**Summary:** Hacker News founder reflects on what two years of building and managing the site has taught him about community growth, user behavior, and maintaining site culture as traffic scales.
+**Keywords:** community moderation, user behavior, growth dilution, broken windows theory, site culture, scaling, comment quality, social platforms
 
 ## 13sentences.txt
 **Title:** Startups in 13 Sentences
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** A startup founder should focus on choosing good cofounders, launching quickly with an evolving idea, deeply understanding users, maintaining frugality, and persisting through challenges rather than getting distracted or demoralized.
+**Keywords:** startups, cofounders, product launch, user satisfaction, frugality, persistence, fundraising, customer service
 
 ## identity.txt
 **Title:** Keep Your Identity Small
-**Summary:** Fruitful discussions become impossible when topics engage people's identities, which explains why religion and politics generate unproductive arguments, and the solution is to minimize the labels and identities you claim.
-**Keywords:** identity, politics, religion, discussion, expertise, belief, reasoning, labels
+**Summary:** Fruitless discussions about politics and religion occur because people incorporate these topics into their identity, making rational argument impossible; the solution is to minimize the labels and identities you adopt to think more clearly.
+**Keywords:** identity, politics, religion, discussion, expertise, rationality, intellectual honesty
 
 ## credentials.txt
 **Title:** After Credentials
-**Summary:** As technology makes actual performance easier to measure, societies can shift away from relying on credentials as predictors of success, reducing the incentive for wealthy parents to game the system through cram schools and legacy advantages.
-**Keywords:** credentials, performance measurement, social mobility, meritocracy, cram schools, wealth inequality, civil service exams
+**Summary:** As technology makes actual performance easier to measure, societies increasingly rely on direct performance evaluation rather than credentials to allocate opportunities, reducing the incentive for wealthy parents to game the credentialing system.
+**Keywords:** credentials, meritocracy, performance, social mobility, cram schools, wealth inequality, institutional reform
 
 ## divergence.txt
 **Title:** Could VC be a Casualty of the Recession?
-**Summary:** The recession may permanently reduce venture capital's role in startups because the cost of starting companies has become so low that founders can now achieve profitability without VC funding, fundamentally separating two components that were previously bolted together.
-**Keywords:** venture capital, startup funding, profitability, recession, low cost startups, founder independence, vc models, internet economics
+**Summary:** As startup costs have plummeted due to technological advances, founders no longer depend on venture capital funding the way they once did, which could cause VCs and startups to diverge during the recession and fundamentally reshape the startup ecosystem.
+**Keywords:** venture capital, startups, recession, profitability, funding, cheap startups, entrepreneurship, business models
 
 ## highres.txt
 **Title:** The High-Res Society
-**Summary:** As technological change accelerates, small agile organizations are replacing large hierarchical ones as the dominant economic force, attracting the most ambitious talent and fundamentally reshaping how work and business are organized.
-**Keywords:** startups, organizational scale, technology, entrepreneurship, economic change, small groups, ambition, innovation speed
+**Summary:** Large organizations' historical dominance is ending as technological change accelerates, favoring smaller, faster-moving groups that now attract the most ambitious talent, fundamentally reshaping the economy from hierarchical corporations to networks of independent units.
+**Keywords:** economies of scale, organizational size, technological change, startups, ambitious talent, silicon valley, internet economy, business structure
 
 ## artistsship.txt
 **Title:** The Other Half of "Artists Ship"
-**Summary:** Organizations accumulate procedural checks to prevent mistakes, but fail to account for the hidden costs of these checks, which often outweigh their benefits and particularly harm innovative work like software development.
-**Keywords:** organizational checks, cost-benefit analysis, startup culture, bureaucratic efficiency, software development, risk management, market mechanisms, innovation constraints
+**Summary:** Organizations accumulate procedural checks to prevent mistakes, but each check has hidden costs that often outweigh its benefits, particularly harming talented programmers and innovative companies.
+**Keywords:** organizational checks, hidden costs, startups, bureaucracy, efficiency, software development, sarbanes-oxley, market mechanisms
 
 ## badeconomy.txt
 **Title:** Why to Start a Startup in a Bad Economy
-**Summary:** Starting a startup during an economic recession can be advantageous because competition decreases, costs are lower, and investors focus on quality over hype.
-**Keywords:** startup, recession, economic downturn, funding, competition, costs, opportunity, timing
+**Summary:** Founder quality matters far more than economic conditions for startup success, making a recession neither particularly good nor bad timing to start—the key is to act on good ideas quickly, run lean, and recruit strong cofounders.
+**Keywords:** startup, recession, founders, economy, timing, competition, lean operations, fundraising
 
 ## fundraising.txt
 **Title:** A Fundraising Survival Guide
-**Summary:** Paul Graham provides practical advice for startup founders navigating the fundraising process, covering how to approach investors, what to expect, and how to maintain momentum while seeking funding.
-**Keywords:** fundraising, startups, venture capital, investors, pitch, due diligence, valuation, negotiation
+**Summary:** Fundraising is brutally difficult for startups because investors are few, irrational, and heavily influenced by each other's opinions, making the funding market highly unstable and unpredictable, though bootstrapping through consulting is rarely a viable alternative.
+**Keywords:** fundraising, startups, venture capital, investor behavior, market inefficiency, bootstrapping, startup funding, morale
 
 ## prcmc.txt
 **Title:** The Pooled-Risk Company Management Company
-**Summary:** Founders seeking freedom and security should consider that acquisition by a public company functions as an ideal "pooled-risk company management company," though acquirers currently operate erratically rather than as reliable professional managers.
-**Keywords:** startup founders, acquisitions, public companies, management, risk pooling, liquidity events, business strategy, freedom and security
+**Summary:** Public company acquisitions function as ideal pooled-risk management companies that provide founders with freedom and security, though acquirers' unpredictable behavior prevents them from reliably serving this role.
+**Keywords:** startup founders, acquisitions, management companies, pooled risk, freedom, security, revenue-based business, public companies
 
 ## cities.txt
 **Title:** Cities and Ambition
-**Summary:** Great cities shape ambition by broadcasting distinct cultural messages, and living in a city aligned with your goals significantly influences your likelihood of achieving them.
-**Keywords:** cities, ambition, environment, culture, messages, cambridge, success, geography
+**Summary:** Great cities send distinct cultural messages that shape ambition in different ways, and choosing to live in a city aligned with your goals is more powerful than most people realize.
+**Keywords:** cities, ambition, environment, culture, cambridge, new york, silicon valley, genius
 
 ## distraction.txt
 **Title:** Disconnecting Distraction
-**Summary:** Procrastination thrives on distractions, which evolve over time as technology becomes more refined; the solution is to make distractions physically inconvenient by separating your work computer from internet access.
-**Keywords:** procrastination, distraction, internet, addiction, technology, willpower, productivity, habits
+**Summary:** Procrastination thrives on distractions, which evolve over time as technology becomes more addictive, requiring deliberate strategies like physical separation to maintain focus on work.
+**Keywords:** procrastination, distraction, internet, addiction, focus, technology, willpower, productivity
 
 ## lies.txt
 **Title:** Lies We Tell Kids
-**Summary:** Adults systematically lie to children across all aspects of society through both overt falsehoods and subtle omissions, primarily to protect them from harsh realities, but these lies can have unexamined consequences that persist into adulthood and create disconnects between sheltered upbringings and the actual world.
-**Keywords:** lying to children, protection, suburbia, coming of age, truth and deception, parenting, artificial environments, adolescence
+**Summary:** Adults systematically lie to children across culture to protect them from harsh realities, but these well-intentioned deceptions can create distorted worldviews and unprepared young adults who must eventually confront the gap between their sheltered upbringing and reality.
+**Keywords:** lying to children, protection, suburbia, coming of age, worldview, deception, adolescence, reality
 
 ## good.txt
 **Title:** Be Good
-**Summary:** Successful startups should focus on making something people want without worrying primarily about monetization, which paradoxically aligns them with charitable principles and often leads to greater long-term success and value creation.
-**Keywords:** startup philosophy, user value, business model, benevolence, growth strategy, craigslist, google, nonprofit comparison
+**Summary:** Successful startups should focus on making something people genuinely want rather than worrying about monetization first, a principle that mirrors charitable behavior and often proves more profitable in the long run.
+**Keywords:** startups, benevolence, user value, business model, growth, charity, customer focus, profitability
 
 ## googles.txt
 **Title:** Why There Aren't More Googles
-**Summary:** Want to start a startup?
-**Keywords:** aren, combinator, funded, googles, start, startup, there
+**Summary:** VCs miss the best startup opportunities because they are too conservative and consensus-driven, creating a gap in funding for promising early-stage companies that neither need nor want large institutional investments.
+**Keywords:** venture capital, startup funding, innovation, risk aversion, acquisition, google, early-stage investing, angel investors
 
 ## heroes.txt
 **Title:** Some Heroes
-**Summary:** Graham identifies personal heroes based on two key qualities—excessive dedication to their work and absolute honesty—and explores why figures like Jack Lambert, Kenneth Clark, Larry Mihalko, and Leonardo da Vinci exemplify these traits.
-**Keywords:** heroes, admiration, integrity, dedication, craftsmanship, intellectual curiosity, authenticity, excellence
+**Summary:** Graham identifies the defining characteristics of his heroes—excessive dedication to their work and absolute honesty—and profiles five people who embody these qualities: athlete Jack Lambert, art historian Kenneth Clark, teacher Larry Mihalko, and polymath Leonardo da Vinci.
+**Keywords:** heroes, admiration, honesty, dedication, integrity, influence, craftsmanship, subversion
 
 ## disagree.txt
 **Title:** How to Disagree
-**Summary:** Graham proposes a six-level hierarchy of disagreement quality, from name-calling to refuting central points, arguing that as online discourse increases, people should learn to disagree more thoughtfully and effectively.
-**Keywords:** disagreement, hierarchy, rhetoric, online discourse, argumentation, refutation, debate quality
+**Summary:** Graham proposes a hierarchy of disagreement quality, from name-calling to refuting central points, to encourage more constructive online discourse as digital communication increasingly enables public disagreement.
+**Keywords:** disagreement, online communication, argumentation, hierarchy, rhetoric, discourse, reasoning, refutation
 
 ## boss.txt
 **Title:** You Weren't Meant to Have a Boss
-**Summary:** Want to start a startup?
-**Keywords:** boss, combinator, funded, meant, start, startup, weren
+**Summary:** Working for large organizations is intellectually unhealthy because humans are naturally suited for small groups with autonomy, making self-directed work in startups more aligned with human nature than traditional corporate employment.
+**Keywords:** startup, human nature, organization size, autonomy, hierarchy, group dynamics, corporate work, natural selection
 
 ## ycombinator.txt
 **Title:** A New Venture Animal
-**Summary:** Y Combinator is not primarily a funding source but rather a new type of venture organization that launches early-stage startups by providing intensive mentorship and operational guidance during a three-month program, fundamentally different from traditional venture capital which scales money and help differently at later stages.
-**Keywords:** y combinator, seed funding, early-stage startups, mentorship, venture capital, startup launch, founder support, scaling
+**Summary:** Y Combinator represents a fundamentally new model of early-stage startup support that operates at a different scale than traditional venture capital, where mentorship and operational guidance matter far more than funding itself.
+**Keywords:** startup funding, early-stage investment, venture capital, mentorship, founder support, product launch, risk management, seed stage
 
 ## trolls.txt
 **Title:** Trolls
-**Summary:** Online trolling stems from four main causes—anonymity and distance, the prevalence of people uncomfortable with face-to-face interaction, incompetence in articulating disagreement, and permissive forum culture—and can be mitigated through explicit community guidelines, peer enforcement, and reputation systems that make antisocial behavior costly.
-**Keywords:** trolling, online forums, anonymity, community moderation, hacker culture, reputation systems, internet culture, discourse quality
+**Summary:** Trolling in online forums has four main causes—anonymity and distance, the prevalence of socially awkward people in tech communities, incompetence in argumentation, and permissive forum culture—and can be combated through explicit community norms, peer enforcement, and reputation systems that make trolling costly.
+**Keywords:** trolling, online forums, anonymity, community moderation, reputation systems, hacker culture, internet culture, forum governance
 
 ## newthings.txt
 **Title:** Six Principles for Making New Things
-**Summary:** Successful innovation follows a consistent pattern of finding simple solutions to overlooked problems and delivering them informally through rapid iteration, which initially seems unimpressive but ultimately outcompetes more complex approaches.
-**Keywords:** innovation, simplicity, iteration, product development, unconventional approaches, startup strategy, creative work, design philosophy
+**Summary:** Great innovations often appear trivial or flimsy at first because they solve overlooked problems with simple solutions delivered informally through rapid iteration, which naturally generates initial contempt but ultimately succeeds by offering advantages others forgo while chasing legitimacy.
+**Keywords:** simple solutions, overlooked problems, rapid iteration, startup strategy, innovation, contrarian approach, crude version 1, informal delivery
 
 ## startuphubs.txt
 **Title:** Why to Move to a Startup Hub
-**Summary:** Startups benefit significantly from locating in established startup hubs like Silicon Valley due to superior investor quality and ecosystem advantages, though certain circumstances may justify staying elsewhere.
-**Keywords:** startup hubs, silicon valley, location, venture capital, founders, boston, ecosystem, investor quality
+**Summary:** Startups perform better when located in startup hubs like Silicon Valley due to superior investor quality, startup infrastructure, and accumulated knowledge, regardless of the founder's nationality or current location.
+**Keywords:** startup hubs, silicon valley, location, venture capital, investors, entrepreneurship, geographic advantage, relocation
 
 ## webstartups.txt
 **Title:** The Future of Web Startups
-**Summary:** [one sentence]
-**Keywords:** [5-8 words]
+**Summary:** As web startups become dramatically cheaper to launch, they will proliferate and undergo standardization in funding, acquisitions, and operations, enabling riskier and more innovative strategies that were previously impossible.
+**Keywords:** web startups, cost reduction, standardization, venture capital, acquisitions, entrepreneurship, innovation, startup funding
 
 ## philosophy.txt
 **Title:** How to Do Philosophy
-**Summary:** Philosophy's main problem is that it confuses linguistic imprecision with deep truth, and the discipline would be better understood as a cautionary example of reason gone wrong rather than a path to wisdom.
-**Keywords:** philosophy, language, words, imprecision, logic, truth, reasoning, meaning
+**Summary:** Philosophy has largely wasted thousands of years on word confusions rather than genuine inquiry, but studying how reason went wrong in philosophical tradition can still be valuable.
+**Keywords:** philosophy, language, words, reasoning, confusion, wisdom, analysis, intellectual history
 
 ## colleges.txt
 **Title:** News from the Front
-**Summary:** Elite college credentials matter far less than commonly believed because startup outcomes, which are measured by real market success rather than institutional reputation, show that college prestige has minimal correlation with founder success.
-**Keywords:** college admissions, elite universities, startup founders, hiring, meritocracy, venture capital, selection bias, institutional prestige
+**Summary:** Elite college credentials matter far less than commonly believed because real-world startup performance is determined by founder ability and market validation, not educational pedigree, yet large organizations continue overvaluing elite degrees due to risk-averse hiring practices.
+**Keywords:** college admissions, elite universities, hiring, startup performance, venture capital, education, meritocracy, organizational hiring bias
 
 ## die.txt
 **Title:** How Not to Die
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, start, startup
+**Summary:** The key to startup success is simply avoiding failure through perseverance and continuous progress, as most startups that die do so from demoralization rather than actual inability to survive.
+**Keywords:** startup survival, avoiding failure, founder demoralization, persistence, iterative development, user feedback, maintaining momentum
 
 ## head.txt
 **Title:** Holding a Program in One's Head
-**Summary:** Programmers should structure their work to keep entire programs held mentally in their heads, enabling deep understanding and flexible problem-solving through minimizing distractions, working in long stretches, using succinct languages, and organizing small teams with individual code ownership.
-**Keywords:** programming, code comprehension, mental models, productivity, distractions, team structure, language design
+**Summary:** Programmers must hold their entire program in their heads to truly understand and effectively work on it, and this requires minimizing distractions, working in long stretches, using concise languages, and organizing code and teams to keep cognitive load manageable.
+**Keywords:** programming, cognitive load, code comprehension, productivity, distraction, team structure, code design
 
 ## stuff.txt
 **Title:** Stuff
-**Summary:** We accumulate too much cheap stuff due to marketing and false perceptions of value, but possessions ultimately drain our energy and limit our freedom, so we should only keep items that meaningfully improve our lives.
-**Keywords:** minimalism, consumerism, possessions, clutter, materialism, value, lifestyle, marketing
+**Summary:** Accumulating material possessions beyond what we actually use diminishes our quality of life and freedom, as the true value of stuff lies only in its utility, not its price or perceived worth.
+**Keywords:** consumerism, minimalism, materialism, possessions, clutter, consumption, value, lifestyle
 
 ## equity.txt
 **Title:** The Equity Equation
-**Summary:** Founders can use a mathematical formula (1/(1-n)) to evaluate whether trading equity in their company—whether for investor funding, employee hiring, or business deals—will make them financially better off.
-**Keywords:** equity, startup funding, valuation, stock grants, venture capital, employee compensation, founders, decision-making
+**Summary:** A mathematical formula (1/(1-n)) can determine whether trading equity in your startup for investment, employees, or partnerships is a good deal by calculating whether the traded stake improves company value enough to make remaining shares worth more than before.
+**Keywords:** equity, startup funding, valuation, stock grants, venture capital, founders, employee compensation, business deals
 
 ## unions.txt
 **Title:** An Alternative Theory of Unions
-**Summary:** High-paying union manufacturing jobs in the mid-twentieth century were not the result of worker solidarity or moral courage, but rather a temporary economic anomaly caused by rapid industrial growth where companies prioritized speed over cost efficiency, similar to inflated consulting wages during the dot-com bubble.
-**Keywords:** unions, manufacturing, economic growth, wages, startups, labor history, market conditions, business cycles
+**Summary:** High-paying union manufacturing jobs in mid-twentieth century America were not the result of worker heroism or moral superiority, but rather a temporary economic aberration caused by rapid industrial growth where companies overpaid for labor as an afterthought to faster expansion, similar to inflated consultant salaries during the Internet Bubble.
+**Keywords:** unions, manufacturing, economic growth, labor, wages, mid-century, startups, aberration
 
 ## guidetoinvestors.txt
 **Title:** The Hacker's Guide to Investors
-**Summary:** Hackers seeking investment should understand that investors operate fundamentally differently from founders—they are momentum-driven dealmakers who rely on personal networks rather than public marketing, with angel investors being the actual critical ingredient in creating startup hubs like Silicon Valley.
-**Keywords:** investors, venture capital, angel investors, startup hubs, dealmakers, momentum investing, founder education, silicon valley
+**Summary:** Hackers seeking funding should understand that investors operate fundamentally differently from founders—they are momentum-driven dealmakers who prioritize access and personal connections over technology expertise, making angel investors (who are often former founders) more critical to startup ecosystems than VCs.
+**Keywords:** venture capital, angel investors, startup funding, investor behavior, silicon valley, dealmakers, momentum investing, founder education
 
 ## judgement.txt
 **Title:** Two Kinds of Judgement
-**Summary:** People judge you in two fundamentally different ways—either to accurately assess you or to make a selection decision—and misunderstanding which type of judgment is occurring causes unnecessary hurt and passivity.
-**Keywords:** judgment, selection, fairness, rejection, self-centeredness, college admissions, customer perspective, optimal outcomes
+**Summary:** People judge you in two fundamentally different ways—some judgements aim to assess you accurately, while most judgements are merely a means to select an optimal set, and understanding this distinction can reduce unnecessary hurt and increase your agency.
+**Keywords:** judgment, selection, fairness, rejection, self-centeredness, admissions, optimization, decision-making
 
 ## microsoft.txt
 **Title:** Microsoft is Dead
-**Summary:** Microsoft's dominance in software has ended by the mid-2000s due to the simultaneous emergence of Google, web-based applications enabled by Ajax, broadband internet, and Apple's resurgence, leaving the company no longer feared or relevant in the technology industry.
-**Keywords:** microsoft, google, web applications, ajax, broadband, apple, decline, monopoly
+**Summary:** Microsoft's dominance in the software industry has ended due to the simultaneous emergence of Google, the shift to web-based applications, widespread broadband adoption, and Apple's resurgence, making the company no longer a threat to the tech industry.
+**Keywords:** microsoft, google, web applications, ajax, apple, desktop computing, monopoly, startups, technology
 
 ## notnot.txt
 **Title:** Why to Not Not Start a Startup
-**Summary:** Want to start a startup?
-**Keywords:** start, startup, combinator, funded
+**Summary:** Graham argues that most people's hesitations about starting a startup are unfounded, and that the actual experience and financial outcomes for founders are far better than their fears suggest.
+**Keywords:** startup founding, risk assessment, uncertainty, founder psychology, success rates, venture capital, decision-making
 
 ## wisdom.txt
 **Title:** Is It Worth Being Wise?
-**Summary:** Wisdom and intelligence are different shapes of performance on the same curve—wisdom represents consistently good judgment across all situations while intelligence represents exceptional peaks in specific domains, and as knowledge becomes more specialized these two qualities increasingly diverge.
-**Keywords:** wisdom, intelligence, performance curve, expertise, specialization, average outcome, peaks
+**Summary:** Wisdom and intelligence are different shapes of performance on the same curve—wisdom is consistently good outcomes across all situations while intelligence is spectacular performance in specialized areas, and these two qualities may increasingly diverge as knowledge becomes more specialized.
+**Keywords:** wisdom, intelligence, performance, specialization, experience, averages, peaks, knowledge
 
 ## foundersatwork.txt
 **Title:** Learning from Founders
-**Summary:** Early-stage startups are the most productive phase of business because they focus on actual performance rather than appearing professional, a principle that applies broadly across organizations that confuse appearances with results.
-**Keywords:** startups, productivity, performance, professionalism, appearances, early-stage, business culture, efficiency
+**Summary:** Early-stage startups are the most productive part of the economy because they focus on actual performance rather than appearances, unlike large corporations that waste energy on looking professional, and examining real startup practices can teach other organizations what genuine productivity looks like.
+**Keywords:** startups, productivity, performance, corporate culture, appearance vs. reality, founders, business efficiency, early-stage companies
 
 ## goodart.txt
 **Title:** How Art Can Be Good
-**Summary:** Art can be objectively good because it succeeds at engaging its audience, and humans share enough common perceptual and cognitive traits that universal standards of artistic quality are meaningful and measurable.
-**Keywords:** art, taste, audience, objectivity, beauty, human nature, standards, aesthetics
+**Summary:** Art can be objectively good because it succeeds in engaging its audience, and all humans share common perceptual and cognitive traits that allow for meaningful standards of aesthetic quality.
+**Keywords:** art, taste, objectivity, audience, beauty, aesthetics, human nature, perception
 
 ## startupmistakes.txt
 **Title:** The 18 Mistakes That Kill Startups
-**Summary:** <one sentence>
-**Keywords:** <5-8 lowercase words>
+**Summary:** Startups fail by not making something users want, which results from eighteen common mistakes including poor founder composition, location, market selection, and product strategy that founders should actively avoid.
+**Keywords:** startup failure, user demand, founder dynamics, market selection, product-market fit, competitive strategy, startup mistakes
 
 ## mit.txt
 **Title:** A Student's Guide to Startups
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, guide, start, startup, startups, student
+**Summary:** Graduating students should generally wait until after college to start startups because graduation removes the "escape hatch" of student status, making peer pressure a more powerful motivator for success in a venture where small disadvantages can be decisive.
+**Keywords:** startups, founders, college, graduation, motivation, peer pressure, risk, entrepreneurship
 
 ## investors.txt
 **Title:** How to Present to Investors
-**Summary:** Effective investor presentations should focus on clearly demonstrating your business idea, team competence, and market opportunity rather than relying on polished slides or excessive details.
-**Keywords:** startup funding, investor pitch, presentation skills, persuasion, business fundamentals, y combinator, entrepreneurship, venture capital
+**Summary:** Founders should focus on clearly explaining what they've built and why users need it, avoiding jargon and preamble while demonstrating their product effectively to investors.
+**Keywords:** startup presentations, investor pitches, demo day, product explanation, founder communication, pitching strategy, y combinator
 
 ## copy.txt
 **Title:** Copy What You Like
-**Summary:** To improve your work, copy only what you genuinely like rather than what others admire, and learn to distinguish between your authentic preferences and things you're impressed with for superficial reasons.
-**Keywords:** imitation, authenticity, taste, learning, writing, influence, judgment, integrity
+**Summary:** To improve your craft, copy only what you genuinely like rather than what is admired or prestigious, and learn to distinguish between your authentic preferences and things you pretend to like for virtue.
+**Keywords:** imitation, authenticity, taste, learning, writing, expertise, authority, pleasure
 
 ## island.txt
 **Title:** The Island Test
-**Summary:** The "island test"—imagining a weekend away with no shops or escape—reveals your true addictions by what you feel compelled to pack beyond necessities.
-**Keywords:** addiction, self-knowledge, habits, priorities, minimalism, travel, productivity, distraction
+**Summary:** Graham proposes the "island test"—imagining a weekend on an isolated island to reveal what you're genuinely addicted to by identifying what you'd pack beyond necessities.
+**Keywords:** addiction, habits, self-awareness, minimalism, decision-making, productivity, distraction, travel
 
 ## marginal.txt
 **Title:** The Power of the Marginal
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Great innovations often emerge from marginal spaces and outsider perspectives because insiders face organizational constraints, risk aversion, and status concerns that inhibit truly novel ideas.
+**Keywords:** marginality, innovation, outsiders, startup culture, constraints, silicon valley, entrepreneurship, organizational hierarchy
 
 ## america.txt
 **Title:** Why Startups Condense in America
-**Summary:** The United States has unique structural advantages—immigration openness, economic wealth, political freedom, and elite universities—that make it particularly conducive to startup formation, and other countries would need to replicate these conditions to create rival innovation clusters.
-**Keywords:** startups, silicon valley, immigration, innovation clusters, universities, economic conditions, political freedom, entrepreneurship
+**Summary:** America's unique combination of immigration openness, wealth, political freedom, and elite universities creates ideal conditions for startup clusters to form, making it easier for startups to condense there than in other countries.
+**Keywords:** startups, silicon valley, immigration, innovation, universities, clusters, entrepreneurship, economic conditions
 
 ## siliconvalley.txt
 **Title:** How to Be Silicon Valley
-**Summary:** Creating a silicon valley requires attracting the right people—specifically nerds and wealthy startup investors—rather than relying on geography, buildings, or government programs.
-**Keywords:** silicon valley, startups, investors, technology hubs, universities, entrepreneurship, talent attraction, venture capital
+**Summary:** Creating a technology hub like Silicon Valley requires only two essential ingredients—wealthy investors with tech experience and talented engineers—who are highly mobile and will relocate to places with top-tier universities and good living conditions.
+**Keywords:** silicon valley, startups, investors, engineers, technology hubs, universities, talent attraction, entrepreneurship
 
 ## startuplessons.txt
 **Title:** The Hardest Lessons for Startups to Learn
-**Summary:** Startups must learn three counterintuitive but critical lessons: release software early and iterate based on user feedback, continuously pump out features to maintain momentum and user engagement, and fundamentally prioritize making users happy since startups cannot force adoption.
-**Keywords:** startup lessons, release early, iteration, user feedback, continuous improvement, feature development, user satisfaction
+**Summary:** Successful startups must learn three counterintuitive lessons: release minimal viable products quickly, continuously pump out features based on user feedback, and prioritize making users happy above all else.
+**Keywords:** startups, product development, release early, user feedback, feature iteration, minimum viable product, customer satisfaction, continuous improvement
 
 ## randomness.txt
 **Title:** See Randomness
-**Summary:** We should habitually question anthropocentric assumptions and look for explanations involving randomness or indifference rather than purpose or intention directed at us, as this approach reveals overlooked truths and avoids the cognitive bias of seeing ourselves as the center of events.
-**Keywords:** anthropocentrism, randomness, bias, purpose, human nature, philosophy, misconception, everyday reasoning
+**Summary:** We should question our instinctive assumption that the world revolves around us, and instead look for explanations rooted in randomness, accident, and indifference rather than purposeful design or malice directed at us.
+**Keywords:** anthropocentrism, randomness, bias, philosophy, purpose, evolution, human nature, intentionality
 
 ## softwarepatents.txt
 **Title:** Are Software Patents Evil?
-**Summary:** Software patents are not inherently evil, but the patent office's inability to properly evaluate software inventions—particularly by rejecting obvious patents and granting overly broad claims—is the real problem.
-**Keywords:** software patents, patent office, obviousness, uspto, patent law, algorithms, intellectual property, patent enforcement
+**Summary:** Software patents are not inherently evil, but the patent office's incompetence in evaluating software inventions—particularly by granting obvious patents—has created a widespread problem that harms innovation more than the concept of patents itself.
+**Keywords:** software patents, patent office, obviousness, innovation, patent law, uspto, amazon, one-click
 
 ## 6631327.txt
 **Title:** 6,631,372
-**Summary:** Paul Graham describes a patent he unknowingly received for a search result ranking algorithm that orders results by bid multiplied by transaction volume, which better measures relevance while maximizing search engine revenue.
-**Keywords:** patents, search algorithms, revenue optimization, e-commerce, viaweb, yahoo, product search, advertising
+**Summary:** Paul Graham describes a patent he unknowingly received for an algorithm that ranks search results by bid multiplied by transaction volume, which proved ahead of its time in 1998 but became standard practice years later.
+**Keywords:** search algorithms, e-commerce, patent, revenue optimization, viaweb, yahoo acquisition, shopping search, algorithmic relevance
 
 ## whyyc.txt
 **Title:** Why YC
-**Summary:** Y Combinator was founded not primarily for profit or altruism, but because Graham and his co-founders saw it as an elegant hack to unlock entrepreneurship in talented people who wouldn't otherwise start companies.
-**Keywords:** startup funding, entrepreneurship, venture capital, hacker mentality, y combinator, innovation catalyst, economic efficiency, founder motivation
+**Summary:** Y Combinator was founded not primarily for profit or altruism, but because applying a small amount of leverage to help smart people start companies seemed like an elegant hack that would efficiently improve the world's economy.
+**Keywords:** y combinator, startups, founders, venture capital, hacker mentality, leverage, entrepreneurship, economic efficiency
 
 ## love.txt
 **Title:** How to Do What You Love
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, love, start, startup
+**Summary:** To excel at work, you must genuinely love what you do, but society misleads people about this by treating work as inherently unpleasant rather than teaching them to find fulfilling pursuits that combine passion with contribution.
+**Keywords:** work, passion, fulfillment, education, career, socialization, authenticity, meaning
 
 ## procrastination.txt
 **Title:** Good and Bad Procrastination
-**Summary:** Procrastination is unavoidable, but the key is to procrastinate well by prioritizing important work over trivial errands, as the most successful people are those who delay minor tasks to focus on meaningful projects.
-**Keywords:** procrastination, productivity, time management, deep work, prioritization, interruptions, errands, startups
+**Summary:** Procrastination is unavoidable, but the key is to procrastinate well by postponing unimportant errands to focus on meaningful work that requires uninterrupted time and inspiration.
+**Keywords:** procrastination, productivity, time management, deep work, interruptions, prioritization, errands, creativity
 
 ## web20.txt
 **Title:** Web 2.0
-**Summary:** [one sentence describing the essay's thesis]
-**Keywords:** [5-8 lowercase topic words, comma-separated]
+**Summary:** "Web 2.0" originated as a meaningless marketing term for a conference but has acquired real meaning centered on web-based applications powered by Ajax technology, though the term remains unnecessarily imprecise.
+**Keywords:** web 2.0, ajax, web applications, startups, venture capital, technology trends, conferences, internet
 
 ## startupfunding.txt
 **Title:** How to Fund a Startup
-**Summary:** Want to start a startup?
-**Keywords:** startup, combinator, fund, funded, start
+**Summary:** Startup founders should understand the mechanics of venture funding and investor relations, as managing investors is one of the most critical skills for startup success, more important than competing with rivals.
+**Keywords:** startup funding, venture capital, seed funding, investor relations, friends and family, consulting, accredited investors, funding rounds
 
 ## vcsqueeze.txt
 **Title:** The Venture Capital Squeeze
-**Summary:** Venture capital firms face a four-directional squeeze as startups require less funding due to cheaper technology, fewer companies go public because of Sarbanes-Oxley regulations, and large acquirers are buying promising startups early rather than letting VCs develop them.
-**Keywords:** venture capital, startup funding, sarbanes-oxley, technology costs, acquisition strategy, ipo market, open source
+**Summary:** Venture capital firms face a four-way squeeze from declining startup costs, Sarbanes-Oxley regulations that kill IPOs, and strategic acquisition of early-stage companies by large tech firms, forcing VCs to either reform regulations or fundamentally change their business model.
+**Keywords:** venture capital, startup costs, sarbanes-oxley, acquisitions, open source, moore's law, vc funding, ipo market
 
 ## ideas.txt
 **Title:** Ideas for Startups
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** The best startup ideas come from asking promising questions while staying in environments rich with new technologies and smart people, rather than from having a single perfect idea.
+**Keywords:** startup ideas, entrepreneurship, innovation, technology, execution, environment, questions
 
 ## sfp.txt
 **Title:** What I Did this Summer
-**Summary:** Young, motivated hackers can successfully launch viable startups with minimal funding and age is not a significant factor in startup success, as demonstrated by Y Combinator's first Summer Founders Program.
-**Keywords:** startup funding, young founders, age irrelevance, startup motivation, hacker culture, entrepreneurship, y combinator, early-stage companies
+**Summary:** Young, motivated hackers can successfully start viable companies with minimal funding and age is not a significant factor in startup success, as demonstrated by the first Summer Founders Program.
+**Keywords:** startup funding, young founders, y combinator, age and entrepreneurship, startup success, motivation, minimal capital
 
 ## inequality.txt
 **Title:** Inequality and Risk
-**Summary:** Reducing economic inequality necessarily suppresses entrepreneurial risk-taking because it decreases the potential rewards that make risky ventures like startups economically rational.
-**Keywords:** economic inequality, risk, reward, startups, venture capital, taxation, entrepreneurship, incentives
+**Summary:** Reducing economic inequality by taking money from the rich necessarily decreases financial incentives for risk-taking, which undermines venture capital investment and startup creation.
+**Keywords:** economic inequality, risk, venture capital, startups, taxation, wealth redistribution, founders, incentives
 
 ## ladder.txt
 **Title:** After the Ladder
-**Summary:** The shift from climbing corporate ladders to founding startups represents less economic change than it appears, since traditional corporate jobs contained hidden compensation in job security that economic statistics fail to capture.
-**Keywords:** corporate ladder, startup culture, job security, economic inequality, career models, compensation, risk, corporate culture
+**Summary:** The shift from climbing corporate ladders to founding startups represents less economic change than statistics suggest, since traditional job security was itself a form of hidden compensation that modern economic measures fail to capture.
+**Keywords:** corporate ladder, startups, economic inequality, job security, risk, compensation, corporate culture, wealth disparity
 
 ## opensource.txt
 **Title:** What Business Can Learn from Open Source
-**Summary:** Businesses must learn from open source and blogging that amateur passion-driven work often outperforms professional corporate work, a shift enabled by the Web's elimination of distribution barriers.
-**Keywords:** open source, blogging, amateurs, motivation, quality, web distribution, professionalism, competition
+**Summary:** Businesses should learn from open source and blogging that amateurs motivated by passion often outperform paid professionals, fundamentally challenging twentieth-century assumptions about work structure and professionalism.
+**Keywords:** open source, blogging, amateur, professionalism, motivation, quality, web, business
 
 ## hiring.txt
 **Title:** Hiring is Obsolete
-**Summary:** Want to start a startup?
-**Keywords:** combinator, funded, hiring, obsolete, start, startup
+**Summary:** Young, talented individuals are undervalued by traditional employers but can achieve their true market value by starting startups, which are increasingly viable due to plummeting startup costs and serve as a superior alternative to conventional hiring for both entrepreneurs and acquirers.
+**Keywords:** startup costs, young talent, undervalued employees, market rate, acquisition, product development, hiring, internet companies
 
 ## submarine.txt
 **Title:** The Submarine
-**Summary:** Public relations firms act as hidden intermediaries between corporations and news media, strategically placing stories that are technically true but selectively favor their clients, creating the illusion of trends through coordinated coverage rather than actual journalism.
-**Keywords:** public relations, media manipulation, journalism, corporate marketing, press coverage, news industry, advertising, business strategy
+**Summary:** The media's reliance on PR firms to generate stories creates a symbiotic relationship where lazy reporters accept curated "truths" from PR professionals, allowing companies to shape news narratives through selective facts and manufactured buzz rather than through honest advertising.
+**Keywords:** public relations, media, journalism, news stories, pr firms, marketing, press coverage, corporate influence
 
 ## bronze.txt
 **Title:** Why Smart People Have Bad Ideas
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Smart founders often pursue their first random idea with too much conviction, causing them to waste time on inherently unpromising business concepts before eventually pivoting to viable ones.
+**Keywords:** startup ideas, founder psychology, commitment bias, viaweb, artix, pivoting, first-mover bias, business validation
 
 ## mac.txt
 **Title:** Return of the Mac
-**Summary:** Top hackers are returning to Macs because OS X combines beautiful design with Unix power, and this trend signals what mainstream computing will look like in a decade since hackers drive technology adoption.
-**Keywords:** mac, os x, hackers, unix, technology adoption, design, platforms, software
+**Summary:** Elite hackers are returning to Macs because OS X combines Unix power with excellent design, signaling that Apple will become mainstream as hackers' platform preferences historically drive broader technology adoption.
+**Keywords:** mac, os x, hackers, unix, design, platform adoption, technology trends, software
 
 ## writing44.txt
 **Title:** Writing,  Briefly
-**Summary:** Writing is essential for generating ideas, not just communicating them, and good writing requires writing badly first, then relentlessly rewriting and cutting unnecessary material while maintaining a conversational tone.
-**Keywords:** writing, idea generation, rewriting, editing, writing process, revision, clarity, composition
+**Summary:** Writing is essential for generating ideas, not just communicating them, and mastering the craft through iterative drafting, cutting unnecessary elements, and maintaining a conversational tone yields both better prose and better thinking.
+**Keywords:** writing, drafting, editing, idea generation, revision, prose style, composition technique
 
 ## college.txt
 **Title:** Undergraduation
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Undergraduates interested in becoming good hackers should focus on working on challenging programming projects of their own, learning from smart people around them, and studying math for conceptual understanding rather than pursuing formal coursework that may not teach genuinely interesting problems.
+**Keywords:** hacking, programming, learning, college, projects, math, computer science, education
 
 ## venturecapital.txt
 **Title:** A Unified Theory of VC Suckage
-**Summary:** Venture capitalists exhibit problematic behavior—arrogance, paranoia, idea theft, micromanagement, and coercion into unfavorable exits—not because of personal defects but because their compensation structure (percentage of fund assets under management) incentivizes massive deal sizes that create misaligned incentives with founders.
-**Keywords:** venture capital, vc compensation, startup funding, founder-vc relations, fund structure, deal size, liquidity events, valuation
+**Summary:** Venture capitalists' universally disliked behavior stems not from personal flaws but from the structural incentive of their fund-based compensation model, which forces them to manage enormous pools of money and make correspondingly huge individual investments that create misaligned incentives with founders.
+**Keywords:** venture capital, vc incentives, startup funding, fund structure, founder relations, investment behavior, compensation
 
 ## start.txt
 **Title:** How to Start a Startup
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Successful startups require three achievable elements—good people, building something customers want, and spending little money—rather than brilliant ideas or magical solutions.
+**Keywords:** startups, founders, entrepreneurship, execution, hiring, customer needs, fundraising
 
 ## hs.txt
 **Title:** What You'll Wish You'd Known
-**Summary:** High school students should focus on discovering their interests and keeping their options open rather than committing to a fixed life plan early on, choosing paths that maximize future possibilities like staying "upwind" in a glider.
-**Keywords:** career planning, high school, options, interests, premature optimization, ability, discovery, flexibility
+**Summary:** High school students should focus on exploring their interests and keeping their options open rather than committing to rigid life plans early, staying "upwind" of future opportunities by choosing paths that maximize flexibility.
+**Keywords:** career planning, education choices, optionality, personal development, decision-making, potential, learning, flexibility
 
 ## usa.txt
 **Title:** Made in USA
-**Summary:** American impatience and speed-focused culture makes the country excel at malleable fields like software and movies but fail at physical products like cars and cities, where design craftsmanship and taste are undervalued in American business culture.
-**Keywords:** american culture, design, craftsmanship, software, cars, impatience, manufacturing, taste
+**Summary:** Americans excel at fast-moving, iterative fields like software and movies but fail at design-intensive physical products like cars and buildings because of a cultural impatience that values speed over craftsmanship, a problem exacerbated when marketing rather than designers control product development.
+**Keywords:** american culture, design, craftsmanship, software, cars, impatience, taste, manufacturing
 
 ## charisma.txt
 **Title:** It's Charisma, Stupid
-**Summary:** In US presidential elections since television became widespread, the more charismatic candidate consistently wins, not because of political shifts or policy differences, but because both major parties converge on similar positions, leaving charisma as the decisive factor.
-**Keywords:** charisma, presidential elections, television, political bias, candidate selection, voter behavior, occam's razor, media influence
+**Summary:** In US presidential elections since television became widespread, the more charismatic candidate consistently wins, not because of political ideology shifts or policy differences as pundits claim, but because major parties equalize their positions on issues, leaving charisma as the decisive factor.
+**Keywords:** charisma, presidential elections, television, political commentary, voter behavior, candidate personality, media influence
 
 ## polls.txt
 **Title:** Bradley's Ghost
-**Summary:** Exit polls in the 2004 election systematically overestimated Kerry support because voters uncomfortable with elite liberal values were reluctant to admit voting for Bush to pollsters, a variant of the Bradley Effect.
-**Keywords:** exit polls, bradley effect, 2004 election, polling bias, social values, conservative voters, kerry, bush
+**Summary:** Exit polls in the 2004 election significantly overestimated Kerry's support due to a Bradley Effect variant where socially conservative voters were reluctant to admit their Bush votes to pollsters because they conflicted with the liberal values of cultural elites.
+**Keywords:** exit polls, bradley effect, 2004 election, social conservatism, polling bias, elite values, voter honesty
 
 ## laundry.txt
 **Title:** A Version 1.0
-**Summary:** Real essays are explorations of ideas through rewriting and revision, not the formulaic five-paragraph structures taught in schools, and Graham demonstrates this by showing an early draft of his own essay with extensive cuts and revisions.
-**Keywords:** writing, rewriting, essays, revision, school education, drafting, craft, misconceptions
+**Summary:** Writing instruction in schools teaches students to write formulaic essays about literature rather than genuine essays about topics they find interesting, which stems from historical traditions of classical scholarship that have lost their original purpose.
+**Keywords:** writing instruction, essays, school curriculum, rewriting, literature, education, revision process, authentic writing
 
 ## bubble.txt
 **Title:** What the Bubble Got Right
-**Summary:** While the Internet Bubble was built on inflated valuations and Ponzi-like dynamics, it was anchored in genuine truths about the Internet's transformative potential and novel financing mechanisms that will prove more important long-term than the excesses.
-**Keywords:** internet bubble, venture capital, market valuations, startups, technology trends, public markets, retail vc, internet economy
+**Summary:** While the Internet Bubble involved rampant speculation and unsustainable valuations, it was fundamentally driven by real technological trends that will prove significant over the long term, particularly the Internet's transformative potential and the viability of early-stage public offerings.
+**Keywords:** internet bubble, venture capital, market valuation, startup funding, technology trends, ponzi scheme, new economy, retail vc
 
 ## essay.txt
 **Title:** The Age of the Essay
-**Summary:** The essay argues that real essays should explore any topic through genuine curiosity and discovery, rather than defending predetermined positions about literature, a misguided tradition rooted in medieval legal training and 19th-century academic institutional changes.
-**Keywords:** essays, writing, education, literature, academic tradition, curiosity, rhetoric, learning
+**Summary:** Essays should be explorations of ideas across any subject rather than rigid arguments about literature, a misguided tradition stemming from historical accidents in academic institutions rather than the true nature of good writing.
+**Keywords:** essay writing, education, literature, academic tradition, rhetoric, composition, scholarship, intellectual exploration
 
 ## pypar.txt
 **Title:** The Python Paradox
-**Summary:** Companies that choose to use esoteric programming languages like Python attract smarter programmers because only genuinely passionate developers will take the time to learn them, creating a competitive advantage in hiring talent.
-**Keywords:** python, programming languages, hiring, talent selection, programmer quality, language choice, technical culture
+**Summary:** Companies that adopt esoteric programming languages like Python attract higher-quality programmers because only genuinely passionate developers bother learning them, creating a selection effect that benefits both employers and career-minded programmers.
+**Keywords:** python, programming languages, hiring, programmer quality, language design, selection effect, developer passion, java
 
 ## gh.txt
 **Title:** Great Hackers
-**Summary:** <one sentence describing the essay's thesis>
-**Keywords:** <5-8 lowercase topic words, comma-separated>
+**Summary:** Great hackers are extraordinarily productive individuals motivated primarily by interesting work rather than money, and understanding their needs—particularly regarding tools and environment—is crucial for organizations seeking to maximize output in an increasingly technology-leveraged world.
+**Keywords:** programmer productivity, hacker motivation, variation in skill, tools and infrastructure, technological leverage, compensation, hiring talent
 
 ## gap.txt
 **Title:** Mind the Gap
-**Summary:** Wealth inequality in income and salaries is natural and reflects differences in ability, similar to variation in any specialized skill, and stems from misconceptions about how wealth is created rather than distributed.
-**Keywords:** wealth creation, income inequality, skill variation, market value, misconceptions, specialization, merit-based earnings
+**Summary:** The gap between the best and average performers in wealth creation is natural and similar to gaps in other skills, but misconceptions about how wealth works lead people to view income inequality negatively.
+**Keywords:** wealth creation, income inequality, skill variation, market economics, misconceptions about money
 
 ## wealth.txt
 **Title:** How to Make Wealth
-**Summary:** [one sentence]
-**Keywords:** [5-8 lowercase words]
+**Summary:** Starting a startup is an effective way to create wealth by compressing decades of work intensity into a few years, allowing talented individuals to become significantly more productive than in traditional corporate employment.
+**Keywords:** startup, wealth creation, productivity, entrepreneurship, technology, compensation, corporate efficiency
 
 ## gba.txt
 **Title:** The Word "Hacker"
-**Summary:** The term "hacker" describes someone with mastery over computers whose disobedient attitude, though sometimes annoying, is essential to innovation and technological progress, but is threatened by increasingly restrictive intellectual property laws.
-**Keywords:** hacker, programming, rule-breaking, innovation, intellectual property, copyright, computer culture, mastery
+**Summary:** The term "hacker" has multiple meanings—from computer criminal to brilliant programmer—but all share a common thread of rule-breaking that can range from ugly to ingenious, and strict intellectual property laws threaten the hacker culture of exploration and innovation that has historically driven technological progress.
+**Keywords:** hacker culture, intellectual property, programming, innovation, rule-breaking, disobedience, technology development, copyright
 
 ## say.txt
 **Title:** What You Can't Say
-**Summary:** Society operates under invisible moral fashions as arbitrary as physical fashions, making certain truths dangerous to express, and we can identify these suppressed ideas by examining what gets people in trouble and tracking which opinions spark the strongest reactions.
-**Keywords:** moral fashion, heresy, conformity, forbidden ideas, social taboos, truth, censorship, intellectual freedom
+**Summary:** Society operates under invisible moral fashions as arbitrary as physical fashions, and by examining what we're afraid to say, we can identify the unexamined assumptions of our era that future generations will likely find ridiculous.
+**Keywords:** moral fashion, censorship, heresy, conformity, hidden beliefs, social taboos, truth-telling, historical perspective
 
 ## ffb.txt
 **Title:** Filters that Fight Back
-**Summary:** Spam filters should automatically retrieve URLs from suspected spam emails multiple times to overload spammers' servers, turning the volume advantage of spam against the spammers themselves while forcing them to implement working unsubscribe mechanisms.
-**Keywords:** spam filters, bayesian filtering, url crawling, counterattack, email security, spammer costs, blacklist, bandwidth
+**Summary:** Spam filters can be enhanced with a "punish mode" that automatically retrieves URLs from suspected spam multiple times, overloading spammers' servers and making spam economically unviable while forcing legitimate spammers to include working unsubscribe links.
+**Keywords:** spam filters, bayesian filtering, counterattack, url crawling, bandwidth, blacklists, email security, spammer costs
 
 ## hp.txt
 **Title:** Hackers and Painters
-**Summary:** Hacking and painting are fundamentally similar creative disciplines focused on making beautiful things, and hacking should be recognized as a design-focused craft rather than a science, which would free programmers from misguided academic pressures to prioritize publishable research over excellent software.
-**Keywords:** hacking, painting, design, software, creativity, academia, beauty, engineering
+**Summary:** Hacking and painting are fundamentally similar creative disciplines focused on making beautiful things, and treating hacking as academic science misaligns incentives and obscures its true nature as a design craft.
+**Keywords:** hacking, painting, design, creativity, software, academia, craftsmanship, making
 
 ## iflisp.txt
 **Title:** If Lisp is So Great
-**Summary:** Programming language popularity correlates poorly with quality; Lisp's unfamiliar syntax discourages adoption despite its technical superiority, much like how literary merit doesn't determine book sales.
-**Keywords:** lisp, programming languages, popularity, syntax, language design, quality, adoption barriers, self-perpetuation
+**Summary:** Programming language popularity correlates poorly with quality, as Lisp's unfamiliar syntax deters users despite its technical superiority, similar to how Jane Austen's superior prose outsells less accomplished popular authors.
+**Keywords:** lisp, programming languages, syntax, popularity, quality, network effects, language design
 
 ## hundred.txt
 **Title:** The Hundred-Year Language
-**Summary:** Programming languages evolve like biological species along evolutionary trees, and the languages most likely to survive long-term are those with small, clean fundamental cores that minimize unnecessary complexity.
-**Keywords:** programming languages, evolution, language design, axioms, computational theory, long-term survival, language features, code simplicity
+**Summary:** Programming languages will evolve along evolutionary trees with main branches characterized by minimal, clean cores, and identifying which languages sit on these main branches helps predict which will be most useful to program in today.
+**Keywords:** programming languages, evolution, language design, axioms, core operators, long-term survival, language convergence
 
 ## nerds.txt
 **Title:** Why Nerds are Unpopular
-**Summary:** Smart kids are unpopular in American secondary schools not because intelligence is envied, but because nerds prioritize intellectual achievement over the constant social effort required to maintain popularity, which demands total dedication comparable to professional pursuits.
-**Keywords:** popularity, nerds, intelligence, high school, social hierarchy, conformity, priorities, adolescence
+**Summary:** Smart kids are unpopular in American secondary schools not because intelligence is despised, but because nerds prioritize intellectual achievement over the constant, all-consuming effort required to maintain social popularity.
+**Keywords:** popularity, nerds, intelligence, high school, social conformity, competition, priorities, adolescence
 
 ## better.txt
 **Title:** Better Bayesian Filtering
-**Summary:** Graham describes improvements to Bayesian spam filtering algorithms, demonstrating that careful tokenization and algorithmic choices can achieve 99.5% spam detection with minimal false positives, far surpassing prior academic approaches.
-**Keywords:** bayesian filtering, spam detection, tokenization, text classification, false positives, email filtering, algorithm optimization
+**Summary:** Bayesian spam filtering can achieve dramatically better performance than previous academic approaches through improved tokenization, use of message headers, selective token usage, and deliberate biasing against false positives.
+**Keywords:** bayesian filtering, spam detection, text classification, tokenization, false positives, machine learning, email headers
 
 ## desres.txt
 **Title:** Design and Research
-**Summary:** Design and research are complementary approaches that differ in prioritizing goodness versus novelty, with design focusing on user needs rather than theoretical innovation, exemplified by treating programming language creation as a design problem centered on human factors.
-**Keywords:** design, research, programming languages, user needs, lisp, human factors, good design, innovation
+**Summary:** Design and research are distinct but convergent pursuits—design prioritizes making something good for users while research prioritizes novelty—and programming language design should follow design principles by focusing on user needs rather than theoretical abstraction.
+**Keywords:** design, research, programming languages, user-centered design, lisp, good design, human factors, abstractions
 
 ## spam.txt
 **Title:** A Plan for Spam
-**Summary:** Spam can be effectively filtered using Bayesian statistical methods to analyze word frequencies in legitimate versus spam emails, achieving high accuracy rates without requiring explicit rules or blacklists.
-**Keywords:** bayesian filtering, spam detection, email classification, statistical analysis, machine learning, word frequencies, content filtering, probability
+**Summary:** Content-based Bayesian statistical filtering can effectively stop spam by analyzing word probabilities rather than writing explicit rules, achieving less than 0.5% false negatives with virtually no false positives.
+**Keywords:** spam filtering, bayesian analysis, statistical approach, content-based filter, false positives, word probability, email classification
 
 ## icad.txt
 **Title:** Revenge of the Nerds
-**Summary:** [one sentence describing the essay's thesis]
-**Keywords:** [5-8 lowercase topic words, comma-separated]
+**Summary:** Programming languages are not equivalent, and the widespread belief that they are stems from the false comfort of the assumption rather than technical reality, as evidenced by the fact that newer languages like Java, Perl, and Python progressively incorporate features from Lisp, which was developed in 1958.
+**Keywords:** programming languages, lisp, java, pointy-haired boss, language design, startup programming, technical decision-making, language evolution
 
 ## power.txt
 **Title:** Succinctness is Power
-**Summary:** Succinctness in programming languages is a measure of their power, and language designers should prioritize making source code smaller to enable programmers to accomplish more with less conceptual effort.
-**Keywords:** programming languages, succinctness, code size, language design, abstraction, metrics, power, efficiency
+**Summary:** Succinctness in programming languages is a measure of power, and the primary goal of language design should be to minimize the conceptual complexity of code by compressing the most meaning into the fewest elements.
+**Keywords:** programming languages, succinctness, code size, language design, abstraction, metrics, efficiency, power
 
 ## fix.txt
 **Title:** What Languages Fix
-**Summary:** Programming languages can be effectively characterized by identifying the specific problem or limitation in existing languages that each one was designed to fix.
+**Summary:** Programming languages can be understood and compared by identifying the specific problem or limitation in existing languages that each one was designed to solve.
 **Keywords:** programming languages, language design, problem-solving, comparative analysis, language evolution, technical limitations, design philosophy
 
 ## taste.txt
 **Title:** Taste for Makers
-**Summary:** Taste—the ability to recognize and create beauty—is a learnable skill grounded in objective principles that transcend disciplines, and developing good taste is essential for designing excellent work.
-**Keywords:** taste, design, beauty, aesthetics, simplicity, objective standards, craftsmanship, learning
+**Summary:** Good taste is a learnable skill with objective principles that apply across disciplines, and recognizing beauty is essential for creating excellent work in any field.
+**Keywords:** taste, design, beauty, aesthetics, simplicity, craftsmanship, objective standards, creative work
 
 ## noop.txt
 **Title:** Why Arc Isn't Especially Object-Oriented
-**Summary:** Object-oriented programming is a useful technique for specific cases and large teams with mediocre programmers, but it should not be a requirement for all programs, especially when languages offer more powerful alternatives like closures and macros.
-**Keywords:** object-oriented programming, language design, closures, macros, lisp, static typing, code bloat, abstractions
+**Summary:** Object-oriented programming is a useful tool for specific cases but is often oversold due to language limitations, corporate management needs, and the appearance of productivity rather than genuine necessity.
+**Keywords:** object-oriented programming, lisp, language design, closures, macros, abstraction, bloat, mediocre programmers
 
 ## diff.txt
 **Title:** What Made Lisp Different
-**Summary:** Lisp was a radical departure from 1950s programming languages because McCarthy designed it around nine foundational ideas—including conditionals, first-class functions, recursion, garbage collection, and code-as-data—that have gradually influenced the evolution of all subsequent programming languages.
-**Keywords:** lisp, programming languages, first-class functions, macros, code-as-data, recursion, garbage collection, language design
+**Summary:** Lisp was a revolutionary language that introduced nine fundamental programming concepts—including conditionals, first-class functions, recursion, garbage collection, and code-as-data—that have gradually become standard features in modern programming languages.
+**Keywords:** lisp, mccarthy, programming languages, first-class functions, macros, expressions, recursion, garbage collection
 
 ## road.txt
 **Title:** The Other Road Ahead
-**Summary:** Server-based web applications will become the dominant software delivery model because they are more convenient for users and developers than desktop software, creating a major opportunity for startups.
-**Keywords:** web-based software, server-side applications, asp, startup opportunity, user convenience, desktop replacement, internet services
+**Summary:** Server-based web applications will replace desktop software because they offer users greater convenience, mobility, and accessibility while eliminating the need for users to manage complex system administration tasks.
+**Keywords:** web-based software, server-based applications, asp, desktop replacement, software distribution, user convenience, startup opportunity, internet services
 
 ## rootsoflisp.txt
 **Title:** The Roots of Lisp
-**Summary:** John McCarthy's 1960 discovery of Lisp demonstrated how a minimal set of operators and function notation can form a complete programming language, and understanding this foundational model reveals the direction modern programming languages are evolving toward.
-**Keywords:** lisp, mccarthy, programming languages, list processing, language design, semantics, code as data, functional programming
+**Summary:** John McCarthy's 1960 discovery of Lisp demonstrated how a minimal set of operators and a notation for functions can build a complete programming language, representing a fundamental model of computation that modern languages are increasingly adopting.
+**Keywords:** lisp, john mccarthy, programming languages, list processing, language design, semantics, code as data, functional programming
 
 ## langdes.txt
 **Title:** Five Questions about Language Design
-**Summary:** Programming language design should prioritize human usability and programmer control by being designed for skilled hackers rather than weaker programmers, favoring brevity, and treating hacking as a creative discipline like architecture rather than pure mathematics.
-**Keywords:** programming languages, language design, human factors, programmer control, code brevity, hacking, usability, libraries
+**Summary:** Programming languages should be designed around human cognitive limitations, prioritize programmer control and brevity, and be created by and for skilled hackers rather than inexperienced users.
+**Keywords:** programming languages, language design, human factors, programmer control, code brevity, hacker culture, software design
 
 ## popular.txt
 **Title:** Being Popular
-**Summary:** Programming language popularity is determined primarily by expert hackers' preferences and whether a language serves as the scripting language for a popular system, rather than by theoretical merit alone.
-**Keywords:** programming languages, popularity, hackers, language design, merit vs. adoption, scripting languages, user feedback
+**Summary:** Programming language popularity is ultimately determined by expert hackers' preferences rather than theoretical merit, and a language must achieve critical mass and remain popular to continue improving through real-world user feedback.
+**Keywords:** programming languages, hacker preferences, popularity, language design, critical mass, scripting languages, user feedback, software tools
 
 ## javacover.txt
 **Title:** Java's Cover
-**Summary:** Hackers can develop intuition about technology quality by reading its "cover"—examining design choices and context—and Java exhibits multiple warning signs that suggest it will not become a successful programming language.
-**Keywords:** java, programming languages, hacker intuition, technology evaluation, language design, corporate influence, committee design
+**Summary:** Hackers can develop intuition about technology quality by reading its "signals," and Java exhibits numerous warning signs suggesting it will not become a successful language despite heavy promotion.
+**Keywords:** java, programming languages, hacker intuition, technology evaluation, design philosophy, corporate influence, language design
 
 ## avg.txt
 **Title:** Beating the Averages
-**Summary:** Want to start a startup?
-**Keywords:** averages, beating, combinator, funded, start, startup
+**Summary:** Unconventional technology choices, particularly using Lisp for server-based software, can provide startups with a competitive advantage because average performance leads to failure in the high-stakes startup environment.
+**Keywords:** lisp, programming languages, competitive advantage, startup strategy, technology choice, rapid development, web-based software, innovation
 
 ## lwba.txt
 **Title:** Lisp for Web-Based Applications
-**Summary:** Lisp provided Viaweb with significant technical advantages for web application development, including faster development cycles, more expressive code, and the ability to outpace competitors using conventional languages.
-**Keywords:** lisp, web applications, programming language, viaweb, competitive advantage, development speed, expressiveness
+**Summary:** Lisp provided Viaweb with significant technical advantages for web application development, including faster development cycles, more powerful abstraction capabilities, and competitive advantages over competitors using conventional languages.
+**Keywords:** lisp, web applications, programming language, competitive advantage, development speed, abstraction, viaweb
 
 ## progbot.txt
 **Title:** Programming Bottom-Up
-**Summary:** Bottom-up design, enabled especially by Lisp's flexibility, involves building the language up toward your problem rather than just writing code downward, resulting in smaller, clearer, more reusable programs compared to traditional top-down design.
-**Keywords:** bottom-up design, lisp, language abstraction, program design, code reuse, small teams, language-oriented programming
+**Summary:** Bottom-up design, enabled by Lisp's extensibility, involves building the language up toward your program rather than just writing top-down, resulting in smaller, clearer, more reusable code that evolves naturally with the problem domain.
+**Keywords:** bottom-up design, lisp, language abstraction, program design, code reusability, language extension, software complexity
 
 ## prop62.txt
 **Title:** This Year We Can End the Death Penalty in California
-**Summary:** California voters should support Proposition 62 to abolish the death penalty because the criminal justice system's flaws—incompetent defense lawyers, police errors, and prosecutorial misconduct—result in the execution of innocent people rather than serving justice.
-**Keywords:** death penalty, california proposition 62, criminal justice, wrongful conviction, innocent defendants, capital punishment, executions
+**Summary:** California voters should support Proposition 62 to ban the death penalty because the criminal justice system's flaws result in executing innocent people, not because of abstract moral debates about capital punishment.
+**Keywords:** death penalty, capital punishment, california proposition 62, criminal justice, wrongful conviction, innocence

@@ -1,9 +1,13 @@
+from paulg.cache import SummaryCache
 from paulg.essay_index import (
     IndexEntry,
     build_index,
+    build_index_cached,
+    build_summary_prompt,
     format_index,
     heuristic_summary,
     parse_index,
+    parse_summary_response,
 )
 from paulg.extractor import Essay
 
@@ -65,3 +69,65 @@ def test_build_index_falls_back_to_heuristic_on_error():
     entries = build_index(items, summarize=boom)
     assert entries[0].summary  # non-empty heuristic summary
     assert "LLM" not in entries[0].summary
+
+
+def test_build_summary_prompt_includes_title_and_body():
+    essay = Essay(title="How to Do Great Work", text="Some essay body about ambition.")
+    prompt = build_summary_prompt(essay)
+    assert "How to Do Great Work" in prompt
+    assert "ambition" in prompt
+    assert "Summary:" in prompt and "Keywords:" in prompt  # the response format
+
+
+def test_parse_summary_response_well_formed():
+    text = "Summary: Great work needs curiosity.\nKeywords: work, curiosity, ambition"
+    summary, keywords = parse_summary_response(text)
+    assert summary == "Great work needs curiosity."
+    assert keywords == ["work", "curiosity", "ambition"]
+
+
+def test_parse_summary_response_is_label_case_insensitive_and_tolerates_missing_keywords():
+    summary, keywords = parse_summary_response("SUMMARY: A thesis.")
+    assert summary == "A thesis."
+    assert keywords == []
+
+
+def test_parse_summary_response_garbage_returns_empty():
+    summary, keywords = parse_summary_response("no labels here at all")
+    assert summary == ""
+    assert keywords == []
+
+
+def test_build_index_cached_uses_cache_hits_without_summarizing(tmp_path):
+    cache = SummaryCache(tmp_path / "c.json")
+    essay = Essay(title="A", text="body text")
+    cache.put(essay.text, "cached summary", ["k"])
+    calls = []
+
+    def summarize_many(missing):
+        calls.append(missing)
+        return {}
+
+    entries = build_index_cached([("a.txt", essay)], cache, summarize_many=summarize_many)
+    assert entries[0].summary == "cached summary"
+    assert calls == []  # cache hit -> no summarization
+
+
+def test_build_index_cached_summarizes_misses_and_caches(tmp_path):
+    cache = SummaryCache(tmp_path / "c.json")
+    essay = Essay(title="A", text="fresh body")
+
+    def summarize_many(missing):
+        return {fn: ("batch summary", ["b"]) for fn, _ in missing}
+
+    entries = build_index_cached([("a.txt", essay)], cache, summarize_many=summarize_many)
+    assert entries[0].summary == "batch summary"
+    assert cache.get(essay.text) == ("batch summary", ["b"])  # now persisted
+
+
+def test_build_index_cached_heuristic_when_summarizer_omits(tmp_path):
+    cache = SummaryCache(tmp_path / "c.json")
+    essay = Essay(title="A", text="The first sentence here. And a second.")
+    entries = build_index_cached([("a.txt", essay)], cache, summarize_many=lambda m: {})
+    assert entries[0].summary  # heuristic fallback, non-empty
+    assert "first sentence here" in entries[0].summary.lower()
