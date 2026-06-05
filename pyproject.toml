@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paulg"
+version = "0.1.0"
+description = "A Paul Graham agent built on the Claude Agent SDK"
+requires-python = ">=3.10"
+dependencies = [
+    "claude-agent-sdk",
+    "anthropic>=0.40",
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+paulg = "paulg.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "integration: hits the real Anthropic API; opt-in, not run by default",
+]
+# Integration tests are excluded by default; run them with: pytest -m integration
+addopts = "-m 'not integration'"

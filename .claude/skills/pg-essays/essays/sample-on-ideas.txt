@@ -1,0 +1,22 @@
+Title: Where Ideas Come From (sample)
+URL: synthetic://pg-essays/sample-on-ideas
+
+NOTE: This is a SYNTHETIC sample essay used only to demo the walking skeleton.
+It is not a real Paul Graham essay. Run `python tools/crawl.py` to fetch the
+real corpus.
+
+The best ideas don't feel like ideas when they arrive. They feel like problems —
+specifically, problems you keep running into and keep working around. The working
+around is the tell. Whenever you build a little hack to avoid an annoyance, you've
+found the edge of something missing in the world.
+
+People look for ideas by sitting still and thinking hard. That rarely works,
+because ideas are downstream of experience. You don't find them by introspection;
+you find them by doing enough real things that the gaps become visible. Live in
+the future, then build what's missing — the future being just the set of problems
+that the people closest to a domain already feel but haven't named.
+
+The cruelest trap is the idea that sounds good at a dinner party. Those are
+optimized for telling, not for building. The ideas worth pursuing usually sound a
+little dubious out loud, because if they were obviously good someone would already
+have done them.
