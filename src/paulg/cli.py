@@ -7,12 +7,15 @@ import sys
 
 from .agent import PGSession
 from .config import Config, ConfigError, load_config
+from .permissions import confine_to
 
 BANNER = "Paul Graham — ask me anything about startups, ideas, and writing.\n(Ctrl-D or 'exit' to quit.)\n"
 
 
 async def _chat(config: Config) -> None:
-    async with PGSession(config) as session:
+    # Confine the agent's file tools to the skill directory (essays + index + skill).
+    guard = confine_to(config.skill_dir)
+    async with PGSession(config, can_use_tool=guard) as session:
         while True:
             try:
                 question = input("you> ").strip()
