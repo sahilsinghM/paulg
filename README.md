@@ -51,6 +51,22 @@ paulg          # or: python -m paulg.cli
 | `PAULG_MODEL` | `claude-sonnet-4-6` | chat model (set `claude-opus-4-8` for harder questions) |
 | `PAULG_INDEX_MODEL` | `claude-haiku-4-5` | one-time essay-summary model used by the crawler |
 | `PAULG_SKILL_DIR` | `.claude/skills/pg-essays` | skill location — **also the agent's confinement boundary**; point it only at the skill dir |
+| `PAULG_MEMORY` | _(off)_ | set to `1` to let PG remember you across sessions (writable `memory/` dir; corpus stays read-only) |
+
+### Memory (opt-in)
+
+With `PAULG_MEMORY=1`, the agent reads/writes `memory/about_user.md` to recall you
+across sessions. Writes are confined to `memory/` by the permission guard — the
+essay corpus stays read-only and shell/network remain blocked. `memory/` is
+gitignored (personal). Leave it unset for the default fully-read-only agent.
+
+### Faster re-crawls
+
+`tools/crawl.py` caches raw HTML under `data/html_cache/` (re-runs re-extract
+offline — no re-fetch) and summaries under `data/summary_cache.json` (only
+new/changed essays are re-summarized). The index pass runs through the **Message
+Batches API** (50% cheaper, no per-minute rate-limit throttling). Use
+`python tools/crawl.py --refresh` to force a full network re-fetch.
 
 ## Tests
 

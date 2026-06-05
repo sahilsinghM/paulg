@@ -32,37 +32,49 @@ PERSONA_SPINE = (
     "topic, say so plainly in character rather than inventing a view."
 )
 
-# Shell/edit/network tools are hard-disabled in addition to the path guard.
-DISALLOWED_TOOLS = ["Bash", "Write", "Edit", "WebFetch", "WebSearch"]
+# Always hard-disabled: shell + network. Write/Edit are added too unless memory
+# is enabled (then the path guard confines writes to the memory directory).
+BASE_DISALLOWED_TOOLS = ["Bash", "WebFetch", "WebSearch"]
+
+# Appended to the system prompt only when cross-session memory is enabled.
+MEMORY_SPINE = (
+    "\n\nYou have a persistent memory file at memory/about_user.md. At the start "
+    "of a conversation, read it to recall what you already know about this person. "
+    "When you learn a durable fact about them — their projects, role, situation, or "
+    "preferences — append a concise line to that file so you remember next time."
+)
 
 
 def build_options(config: Config, can_use_tool) -> ClaudeAgentOptions:
     """Build the SDK options for a PG chat session.
 
     ``can_use_tool`` is **required**: every tool call is gated by that callback
-    (use ``confine_to(skill_dir)``), nothing is blanket-approved, and
-    shell/edit/network tools are hard-disabled. There is intentionally no
-    permission-bypass path — a session is always confined.
+    (use ``confine_to(...)``), nothing is blanket-approved. There is intentionally
+    no permission-bypass path — a session is always confined. When memory is
+    enabled, Write/Edit stay enabled (the guard confines them to the memory dir);
+    otherwise they're hard-disabled too.
     """
     if can_use_tool is None:
         raise ValueError(
             "build_options requires a can_use_tool guard — pass confine_to(skill_dir)."
         )
+    disallowed = list(BASE_DISALLOWED_TOOLS)
+    append = PERSONA_SPINE
+    if config.memory_enabled:
+        append += MEMORY_SPINE
+    else:
+        disallowed += ["Write", "Edit"]
     return ClaudeAgentOptions(
         model=config.model,
         cwd=str(config.project_root),
         skills=[config.skill_name],
-        system_prompt={
-            "type": "preset",
-            "preset": "claude_code",
-            "append": PERSONA_SPINE,
-        },
+        system_prompt={"type": "preset", "preset": "claude_code", "append": append},
         # Empty list: the can_use_tool callback decides every tool call. The SDK
         # still auto-injects Skill(<skill>) into allowedTools because skills=[...]
         # is set, so the Skill tool works despite the empty list (the callback
         # also explicitly allows Skill).
         allowed_tools=[],
-        disallowed_tools=DISALLOWED_TOOLS,
+        disallowed_tools=disallowed,
         can_use_tool=can_use_tool,
     )
 
@@ -72,9 +84,17 @@ class PGSession:
 
     def __init__(self, config: Config, can_use_tool=None) -> None:
         # Default to confining to the skill directory so a session is never
-        # accidentally unconfined when no guard is passed explicitly.
+        # accidentally unconfined when no guard is passed explicitly. When memory
+        # is enabled, also permit writes inside the (created) memory directory.
         if can_use_tool is None:
-            can_use_tool = confine_to(config.skill_dir)
+            write_root = None
+            if config.memory_enabled:
+                config.memory_dir.mkdir(parents=True, exist_ok=True)
+                starter = config.memory_dir / "about_user.md"
+                if not starter.exists():
+                    starter.write_text("# What I know about this person\n\n", encoding="utf-8")
+                write_root = config.memory_dir
+            can_use_tool = confine_to(config.skill_dir, write_root=write_root)
         self._client = ClaudeSDKClient(build_options(config, can_use_tool))
 
     async def __aenter__(self) -> "PGSession":

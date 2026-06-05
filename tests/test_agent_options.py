@@ -6,7 +6,7 @@ from paulg.agent import PGSession, build_options
 from paulg.config import Config
 
 
-def _cfg(tmp_path: Path) -> Config:
+def _cfg(tmp_path: Path, memory: bool = False) -> Config:
     skill = tmp_path / ".claude" / "skills" / "pg-essays"
     return Config(
         api_key="x",
@@ -17,6 +17,8 @@ def _cfg(tmp_path: Path) -> Config:
         skill_dir=skill,
         essays_dir=skill / "essays",
         index_path=skill / "INDEX.md",
+        memory_enabled=memory,
+        memory_dir=tmp_path / "memory",
     )
 
 
@@ -42,3 +44,27 @@ def test_pgsession_defaults_to_a_confined_guard(tmp_path):
     # it should default to confining to the skill directory (and not raise).
     session = PGSession(_cfg(tmp_path))
     assert session is not None
+
+
+def test_writes_hard_disabled_without_memory(tmp_path):
+    opts = build_options(_cfg(tmp_path, memory=False), _noop_guard)
+    assert "Write" in opts.disallowed_tools
+    assert "Edit" in opts.disallowed_tools
+
+
+def test_writes_enabled_with_memory_but_shell_still_disabled(tmp_path):
+    opts = build_options(_cfg(tmp_path, memory=True), _noop_guard)
+    assert "Write" not in opts.disallowed_tools  # guard confines writes to memory/
+    assert "Edit" not in opts.disallowed_tools
+    assert "Bash" in opts.disallowed_tools  # shell/network always blocked
+    assert "WebFetch" in opts.disallowed_tools
+
+
+def test_pgsession_with_memory_creates_starter_file(tmp_path):
+    cfg = _cfg(tmp_path, memory=True)
+    PGSession(cfg)  # constructing should provision the memory dir + starter file
+    assert (cfg.memory_dir / "about_user.md").exists()
+
+
+async def _noop_guard(name, inp, ctx):  # noqa: ANN001
+    ...
