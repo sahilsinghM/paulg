@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A Paul Graham agent built on the Claude Agent SDK"
 requires-python = ">=3.10"
 dependencies = [
-    "claude-agent-sdk",
+    "claude-agent-sdk>=0.2.91,<0.3",  # pre-1.0 SDK — pin to avoid breaking changes
     "anthropic>=0.40",
     "requests>=2.31",
     "beautifulsoup4>=4.12",

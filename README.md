@@ -50,6 +50,7 @@ paulg          # or: python -m paulg.cli
 | `ANTHROPIC_API_KEY` | — | required |
 | `PAULG_MODEL` | `claude-sonnet-4-6` | chat model (set `claude-opus-4-8` for harder questions) |
 | `PAULG_INDEX_MODEL` | `claude-haiku-4-5` | one-time essay-summary model used by the crawler |
+| `PAULG_SKILL_DIR` | `.claude/skills/pg-essays` | skill location — **also the agent's confinement boundary**; point it only at the skill dir |
 
 ## Tests
 

@@ -16,9 +16,12 @@ async def _chat(config: Config) -> None:
     # Confine the agent's file tools to the skill directory (essays + index + skill).
     guard = confine_to(config.skill_dir)
     async with PGSession(config, can_use_tool=guard) as session:
+        loop = asyncio.get_running_loop()
         while True:
             try:
-                question = input("you> ").strip()
+                # Read input off the event loop so streaming/keepalive messages
+                # are never blocked while the user is typing.
+                question = (await loop.run_in_executor(None, input, "you> ")).strip()
             except EOFError:
                 print()
                 break

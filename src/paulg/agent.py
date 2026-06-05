@@ -57,7 +57,11 @@ def build_options(config: Config, can_use_tool) -> ClaudeAgentOptions:
             "preset": "claude_code",
             "append": PERSONA_SPINE,
         },
-        allowed_tools=[],  # let the callback decide every tool call
+        # Empty list: the can_use_tool callback decides every tool call. The SDK
+        # still auto-injects Skill(<skill>) into allowedTools because skills=[...]
+        # is set, so the Skill tool works despite the empty list (the callback
+        # also explicitly allows Skill).
+        allowed_tools=[],
         disallowed_tools=DISALLOWED_TOOLS,
         can_use_tool=can_use_tool,
     )
