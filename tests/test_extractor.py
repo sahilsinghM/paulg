@@ -39,3 +39,23 @@ def test_preserves_paragraph_breaks():
 def test_text_has_no_surrounding_whitespace():
     essay = extract_essay(FIXTURE)
     assert essay.text == essay.text.strip()
+
+
+def test_extracts_body_from_unclosed_font_tag():
+    # Regression: Paul Graham's essays use UNCLOSED <font> tags, so the body
+    # lives in an implicitly-open font. Mutating <br> nodes in the parsed tree
+    # used to collapse that font and drop the whole essay (startupideas.txt
+    # extracted 69 chars instead of ~41k). The body must survive.
+    html = (
+        "<html><head><title>Tricky Essay</title></head><body>"
+        "<font size=2 face=verdana>Want to start a startup? Get funded.</font>"
+        "<font size=2 face=verdana>\nNovember 2012<br><br>"
+        "This is the real essay body that must survive extraction, with enough "
+        "text to be the largest font block on the page.<br><br>"
+        "A second real paragraph that also must be present in the output."
+        "</body></html>"  # the second <font> is intentionally never closed
+    )
+    essay = extract_essay(html)
+    assert "real essay body that must survive" in essay.text
+    assert "second real paragraph" in essay.text
+    assert "\n\n" in essay.text

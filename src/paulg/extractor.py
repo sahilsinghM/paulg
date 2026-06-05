@@ -22,19 +22,20 @@ class Essay:
 
 def extract_essay(html: str, url: str | None = None) -> Essay:
     """Extract a cleaned title and body text from a single essay's HTML."""
-    soup = BeautifulSoup(html, "html.parser")
+    # Title from the original markup.
+    title_soup = BeautifulSoup(html, "html.parser")
+    title = title_soup.title.get_text(strip=True) if title_soup.title else ""
 
-    title = ""
-    if soup.title and soup.title.get_text(strip=True):
-        title = soup.title.get_text(strip=True)
+    # Convert <br> to newlines on the raw HTML *before* parsing. Paul Graham's
+    # essays use unclosed <font> tags, so the body lives in an implicitly-open
+    # font; mutating <br> nodes in the parsed tree collapses that font and loses
+    # the whole essay. Doing the substitution on the string avoids that.
+    html = re.sub(r"(?i)<br\s*/?>", "\n", html)
+    soup = BeautifulSoup(html, "html.parser")
 
     # Drop non-content nodes entirely.
     for tag in soup(["script", "style"]):
         tag.decompose()
-
-    # Turn line breaks into newlines so paragraph structure survives get_text.
-    for br in soup.find_all("br"):
-        br.replace_with("\n")
 
     # Paul Graham's body text sits in the largest <font> block; nav/footers are
     # in their own smaller font blocks. Fall back to <body> if there are none.
