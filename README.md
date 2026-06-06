@@ -5,6 +5,15 @@ Built on the [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-p
 a thin app that loads a `pg-essays` skill and retrieves essays agentically
 (`Read`/`Grep` — no vector database, no embeddings).
 
+> **Just want to chat with Paul Graham in Claude Code?** Use the skill directly —
+> it runs on your Claude Code plan (no API key, no per-token cost, no rate limits):
+> ```bash
+> curl -fsSL https://raw.githubusercontent.com/sahilsinghM/pg-essays-plugin/main/install.sh | bash
+> ```
+> See **[pg-essays-plugin](https://github.com/sahilsinghM/pg-essays-plugin)**. This
+> repo (`paulg`) is the **standalone app** — a deployable CLI/web runtime that calls
+> the metered Anthropic API directly. Use it when you want PG *outside* Claude Code.
+
 ## How it works
 
 ```
